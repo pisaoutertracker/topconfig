@@ -1,0 +1,2327 @@
+1697198763: mosquitto version 2.0.18 starting
+1697198763: Config loaded from /mosquitto/config/mosquitto.conf.
+1697198763: Opening ipv4 listen socket on port 1883.
+1697198763: Opening ipv6 listen socket on port 1883.
+1697198763: mosquitto version 2.0.18 running
+1697198772: mosquitto version 2.0.18 terminating
+1697198772: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697198779: mosquitto version 2.0.18 starting
+1697198779: Config loaded from /mosquitto/config/mosquitto.conf.
+1697198779: Opening ipv4 listen socket on port 1883.
+1697198779: Opening ipv6 listen socket on port 1883.
+1697198779: mosquitto version 2.0.18 running
+1697198791: mosquitto version 2.0.18 terminating
+1697198791: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697199209: mosquitto version 2.0.18 starting
+1697199209: Config loaded from /mosquitto/config/mosquitto.conf.
+1697199209: Opening ipv4 listen socket on port 1883.
+1697199209: Opening ipv6 listen socket on port 1883.
+1697199209: mosquitto version 2.0.18 running
+1697199219: mosquitto version 2.0.18 terminating
+1697199219: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697199261: mosquitto version 2.0.18 starting
+1697199261: Config loaded from /mosquitto/config/mosquitto.conf.
+1697199261: Opening ipv4 listen socket on port 1883.
+1697199261: Opening ipv6 listen socket on port 1883.
+1697199261: mosquitto version 2.0.18 running
+1697199293: mosquitto version 2.0.18 terminating
+1697199293: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697199341: mosquitto version 2.0.18 starting
+1697199341: Config loaded from /mosquitto/config/mosquitto.conf.
+1697199341: Opening ipv4 listen socket on port 1883.
+1697199341: Opening ipv6 listen socket on port 1883.
+1697199341: mosquitto version 2.0.18 running
+1697199354: mosquitto version 2.0.18 terminating
+1697199354: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697199537: mosquitto version 2.0.18 starting
+1697199537: Config loaded from /mosquitto/config/mosquitto.conf.
+1697199537: Opening ipv4 listen socket on port 1883.
+1697199537: Opening ipv6 listen socket on port 1883.
+1697199537: mosquitto version 2.0.18 running
+1697199932: mosquitto version 2.0.18 terminating
+1697199932: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697199933: mosquitto version 2.0.18 starting
+1697199933: Config loaded from /mosquitto/config/mosquitto.conf.
+1697199933: Opening ipv4 listen socket on port 1883.
+1697199933: Opening ipv6 listen socket on port 1883.
+1697199933: mosquitto version 2.0.18 running
+1697200130: mosquitto version 2.0.18 terminating
+1697200130: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697200396: mosquitto version 2.0.18 starting
+1697200396: Config loaded from /mosquitto/config/mosquitto.conf.
+1697200396: Opening ipv4 listen socket on port 1883.
+1697200396: Opening ipv6 listen socket on port 1883.
+1697200396: mosquitto version 2.0.18 running
+1697200470: mosquitto version 2.0.18 terminating
+1697200470: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697201625: mosquitto version 2.0.18 starting
+1697201625: Config loaded from /mosquitto/config/mosquitto.conf.
+1697201625: Opening ipv4 listen socket on port 1883.
+1697201625: Opening ipv6 listen socket on port 1883.
+1697201625: mosquitto version 2.0.18 running
+1697201644: mosquitto version 2.0.18 terminating
+1697201644: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697201644: mosquitto version 2.0.18 starting
+1697201644: Config loaded from /mosquitto/config/mosquitto.conf.
+1697201644: Opening ipv4 listen socket on port 1883.
+1697201644: Opening ipv6 listen socket on port 1883.
+1697201644: mosquitto version 2.0.18 running
+1697201650: mosquitto version 2.0.18 terminating
+1697201650: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697201831: mosquitto version 2.0.18 starting
+1697201831: Config loaded from /mosquitto/config/mosquitto.conf.
+1697201831: Opening ipv4 listen socket on port 1883.
+1697201831: Opening ipv6 listen socket on port 1883.
+1697201831: mosquitto version 2.0.18 running
+1697201839: New connection from 192.168.0.32:65063 on port 1883.
+1697201839: Client Atom disconnected, not authorised.
+1697201856: New connection from 192.168.0.32:56264 on port 1883.
+1697201856: Client Atom disconnected, not authorised.
+1697201865: New connection from 192.168.0.32:58410 on port 1883.
+1697201865: Client Atom disconnected, not authorised.
+1697201911: mosquitto version 2.0.18 terminating
+1697201911: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697202022: mosquitto version 2.0.18 starting
+1697202022: Config loaded from /mosquitto/config/mosquitto.conf.
+1697202022: Opening ipv4 listen socket on port 1883.
+1697202022: Opening ipv6 listen socket on port 1883.
+1697202022: mosquitto version 2.0.18 running
+1697202042: New connection from 192.168.0.32:52792 on port 1883.
+1697202042: New client connected from 192.168.0.32:52792 as Atom (p2, c1, k30).
+1697202047: New connection from 192.168.0.32:52793 on port 1883.
+1697202047: Client Atom already connected, closing old connection.
+1697202047: New client connected from 192.168.0.32:52793 as Atom (p2, c1, k30).
+1697202053: New connection from 192.168.0.32:52794 on port 1883.
+1697202053: Client Atom already connected, closing old connection.
+1697202053: New client connected from 192.168.0.32:52794 as Atom (p2, c1, k30).
+1697202059: New connection from 192.168.0.32:52795 on port 1883.
+1697202059: Client Atom closed its connection.
+1697202059: New client connected from 192.168.0.32:52795 as Atom (p2, c1, k30).
+1697202065: New connection from 192.168.0.32:52796 on port 1883.
+1697202065: Client Atom already connected, closing old connection.
+1697202065: New client connected from 192.168.0.32:52796 as Atom (p2, c1, k30).
+1697202071: New connection from 192.168.0.32:52797 on port 1883.
+1697202071: Client Atom already connected, closing old connection.
+1697202071: New client connected from 192.168.0.32:52797 as Atom (p2, c1, k30).
+1697202077: New connection from 192.168.0.32:52798 on port 1883.
+1697202077: Client Atom already connected, closing old connection.
+1697202077: New client connected from 192.168.0.32:52798 as Atom (p2, c1, k30).
+1697202083: New connection from 192.168.0.32:52799 on port 1883.
+1697202083: Client Atom already connected, closing old connection.
+1697202083: New client connected from 192.168.0.32:52799 as Atom (p2, c1, k30).
+1697202089: New connection from 192.168.0.32:52800 on port 1883.
+1697202089: Client Atom already connected, closing old connection.
+1697202089: New client connected from 192.168.0.32:52800 as Atom (p2, c1, k30).
+1697202095: New connection from 192.168.0.32:52801 on port 1883.
+1697202095: Client Atom already connected, closing old connection.
+1697202095: New client connected from 192.168.0.32:52801 as Atom (p2, c1, k30).
+1697202101: New connection from 192.168.0.32:52802 on port 1883.
+1697202101: Client Atom already connected, closing old connection.
+1697202101: New client connected from 192.168.0.32:52802 as Atom (p2, c1, k30).
+1697202107: New connection from 192.168.0.32:52803 on port 1883.
+1697202107: Client Atom already connected, closing old connection.
+1697202107: New client connected from 192.168.0.32:52803 as Atom (p2, c1, k30).
+1697202113: New connection from 192.168.0.32:52804 on port 1883.
+1697202113: Client Atom already connected, closing old connection.
+1697202113: New client connected from 192.168.0.32:52804 as Atom (p2, c1, k30).
+1697202119: New connection from 192.168.0.32:52805 on port 1883.
+1697202119: Client Atom already connected, closing old connection.
+1697202119: New client connected from 192.168.0.32:52805 as Atom (p2, c1, k30).
+1697202125: New connection from 192.168.0.32:52806 on port 1883.
+1697202125: Client Atom already connected, closing old connection.
+1697202125: New client connected from 192.168.0.32:52806 as Atom (p2, c1, k30).
+1697202131: New connection from 192.168.0.32:52807 on port 1883.
+1697202131: Client Atom already connected, closing old connection.
+1697202131: New client connected from 192.168.0.32:52807 as Atom (p2, c1, k30).
+1697202137: New connection from 192.168.0.32:52808 on port 1883.
+1697202137: Client Atom already connected, closing old connection.
+1697202137: New client connected from 192.168.0.32:52808 as Atom (p2, c1, k30).
+1697202143: New connection from 192.168.0.32:52809 on port 1883.
+1697202143: Client Atom already connected, closing old connection.
+1697202143: New client connected from 192.168.0.32:52809 as Atom (p2, c1, k30).
+1697202149: New connection from 192.168.0.32:52810 on port 1883.
+1697202149: Client Atom already connected, closing old connection.
+1697202149: New client connected from 192.168.0.32:52810 as Atom (p2, c1, k30).
+1697202155: New connection from 192.168.0.32:52811 on port 1883.
+1697202155: Client Atom already connected, closing old connection.
+1697202155: New client connected from 192.168.0.32:52811 as Atom (p2, c1, k30).
+1697202161: New connection from 192.168.0.32:52812 on port 1883.
+1697202161: Client Atom already connected, closing old connection.
+1697202161: New client connected from 192.168.0.32:52812 as Atom (p2, c1, k30).
+1697202167: New connection from 192.168.0.32:52813 on port 1883.
+1697202167: Client Atom already connected, closing old connection.
+1697202167: New client connected from 192.168.0.32:52813 as Atom (p2, c1, k30).
+1697202173: New connection from 192.168.0.32:52814 on port 1883.
+1697202173: Client Atom already connected, closing old connection.
+1697202173: New client connected from 192.168.0.32:52814 as Atom (p2, c1, k30).
+1697202178: New connection from 10.89.0.1:46978 on port 1883.
+1697202178: New client connected from 10.89.0.1:46978 as auto-BB688FF4-03CA-2665-68AB-212639C7718F (p2, c1, k60).
+1697202179: New connection from 192.168.0.32:52815 on port 1883.
+1697202179: Client Atom already connected, closing old connection.
+1697202179: New client connected from 192.168.0.32:52815 as Atom (p2, c1, k30).
+1697202185: New connection from 192.168.0.32:52816 on port 1883.
+1697202185: Client Atom closed its connection.
+1697202185: New client connected from 192.168.0.32:52816 as Atom (p2, c1, k30).
+1697202191: New connection from 192.168.0.32:52817 on port 1883.
+1697202191: Client Atom already connected, closing old connection.
+1697202191: New client connected from 192.168.0.32:52817 as Atom (p2, c1, k30).
+1697202197: New connection from 192.168.0.32:52818 on port 1883.
+1697202197: Client Atom already connected, closing old connection.
+1697202197: New client connected from 192.168.0.32:52818 as Atom (p2, c1, k30).
+1697202197: New connection from 10.89.0.1:49198 on port 1883.
+1697202197: New client connected from 10.89.0.1:49198 as auto-42351681-F615-B0D1-78F5-D42AAFD5DE6C (p2, c1, k60).
+1697202203: New connection from 192.168.0.32:52819 on port 1883.
+1697202203: Client Atom already connected, closing old connection.
+1697202203: New client connected from 192.168.0.32:52819 as Atom (p2, c1, k30).
+1697202209: New connection from 192.168.0.32:52820 on port 1883.
+1697202209: Client Atom already connected, closing old connection.
+1697202209: New client connected from 192.168.0.32:52820 as Atom (p2, c1, k30).
+1697202215: New connection from 192.168.0.32:52821 on port 1883.
+1697202215: Client Atom already connected, closing old connection.
+1697202215: New client connected from 192.168.0.32:52821 as Atom (p2, c1, k30).
+1697202221: New connection from 192.168.0.32:52822 on port 1883.
+1697202221: Client Atom already connected, closing old connection.
+1697202221: New client connected from 192.168.0.32:52822 as Atom (p2, c1, k30).
+1697202227: New connection from 192.168.0.32:52823 on port 1883.
+1697202227: Client Atom already connected, closing old connection.
+1697202227: New client connected from 192.168.0.32:52823 as Atom (p2, c1, k30).
+1697202233: New connection from 192.168.0.32:52824 on port 1883.
+1697202233: Client Atom already connected, closing old connection.
+1697202233: New client connected from 192.168.0.32:52824 as Atom (p2, c1, k30).
+1697202239: New connection from 192.168.0.32:52825 on port 1883.
+1697202239: Client Atom already connected, closing old connection.
+1697202239: New client connected from 192.168.0.32:52825 as Atom (p2, c1, k30).
+1697202245: New connection from 192.168.0.32:52826 on port 1883.
+1697202245: Client Atom already connected, closing old connection.
+1697202245: New client connected from 192.168.0.32:52826 as Atom (p2, c1, k30).
+1697202251: New connection from 192.168.0.32:52827 on port 1883.
+1697202251: Client Atom already connected, closing old connection.
+1697202251: New client connected from 192.168.0.32:52827 as Atom (p2, c1, k30).
+1697202257: New connection from 192.168.0.32:52828 on port 1883.
+1697202257: Client Atom already connected, closing old connection.
+1697202257: New client connected from 192.168.0.32:52828 as Atom (p2, c1, k30).
+1697202260: mosquitto version 2.0.18 terminating
+1697202260: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697202261: mosquitto version 2.0.18 starting
+1697202261: Config loaded from /mosquitto/config/mosquitto.conf.
+1697202261: Opening ipv4 listen socket on port 1883.
+1697202261: Opening ipv6 listen socket on port 1883.
+1697202261: mosquitto version 2.0.18 running
+1697202263: New connection from 192.168.0.32:52829 on port 1883.
+1697202263: New client connected from 192.168.0.32:52829 as Atom (p2, c1, k30).
+1697202265: mosquitto version 2.0.18 terminating
+1697202265: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697202324: mosquitto version 2.0.18 starting
+1697202324: Config loaded from /mosquitto/config/mosquitto.conf.
+1697202324: Opening ipv4 listen socket on port 1883.
+1697202324: Opening ipv6 listen socket on port 1883.
+1697202324: mosquitto version 2.0.18 running
+1697202416: mosquitto version 2.0.18 terminating
+1697202416: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697202416: mosquitto version 2.0.18 starting
+1697202416: Config loaded from /mosquitto/config/mosquitto.conf.
+1697202416: Opening ipv4 listen socket on port 1883.
+1697202416: Opening ipv6 listen socket on port 1883.
+1697202416: mosquitto version 2.0.18 running
+1697202419: mosquitto version 2.0.18 terminating
+1697202419: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697202962: mosquitto version 2.0.18 starting
+1697202962: Config loaded from /mosquitto/config/mosquitto.conf.
+1697202962: Opening ipv4 listen socket on port 1883.
+1697202962: Opening ipv6 listen socket on port 1883.
+1697202962: mosquitto version 2.0.18 running
+1697202964: New connection from 10.89.0.58:55606 on port 1883.
+1697202964: New client connected from 10.89.0.58:55606 as Telegraf-Consumer-ADYjt (p2, c1, k60).
+1697202970: Client Telegraf-Consumer-ADYjt disconnected.
+1697202970: mosquitto version 2.0.18 terminating
+1697202970: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697202972: mosquitto version 2.0.18 starting
+1697202972: Config loaded from /mosquitto/config/mosquitto.conf.
+1697202972: Opening ipv4 listen socket on port 1883.
+1697202972: Opening ipv6 listen socket on port 1883.
+1697202972: mosquitto version 2.0.18 running
+1697203033: mosquitto version 2.0.18 terminating
+1697203033: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697203045: mosquitto version 2.0.18 starting
+1697203045: Config loaded from /mosquitto/config/mosquitto.conf.
+1697203045: Opening ipv4 listen socket on port 1883.
+1697203045: Opening ipv6 listen socket on port 1883.
+1697203045: mosquitto version 2.0.18 running
+1697203047: New connection from 10.89.0.1:59930 on port 1883.
+1697203047: New client connected from 10.89.0.1:59930 as Telegraf-Consumer-Kpqj4 (p2, c1, k60).
+1697203063: Client Telegraf-Consumer-Kpqj4 disconnected.
+1697203069: mosquitto version 2.0.18 terminating
+1697203069: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697203595: mosquitto version 2.0.18 starting
+1697203595: Config loaded from /mosquitto/config/mosquitto.conf.
+1697203595: Opening ipv4 listen socket on port 1883.
+1697203595: Opening ipv6 listen socket on port 1883.
+1697203595: mosquitto version 2.0.18 running
+1697203600: New connection from 192.168.0.32:60021 on port 1883.
+1697203600: New client connected from 192.168.0.32:60021 as Atom (p2, c1, k30).
+1697203600: New connection from 10.89.0.1:51336 on port 1883.
+1697203600: New client connected from 10.89.0.1:51336 as Telegraf-Consumer-cpmHc (p2, c1, k60).
+1697203605: New connection from 192.168.0.32:60022 on port 1883.
+1697203605: Client Atom already connected, closing old connection.
+1697203605: New client connected from 192.168.0.32:60022 as Atom (p2, c1, k30).
+1697203611: New connection from 192.168.0.32:60023 on port 1883.
+1697203611: Client Atom already connected, closing old connection.
+1697203611: New client connected from 192.168.0.32:60023 as Atom (p2, c1, k30).
+1697203617: New connection from 192.168.0.32:60024 on port 1883.
+1697203617: Client Atom closed its connection.
+1697203617: New client connected from 192.168.0.32:60024 as Atom (p2, c1, k30).
+1697203623: New connection from 192.168.0.32:60025 on port 1883.
+1697203623: Client Atom already connected, closing old connection.
+1697203623: New client connected from 192.168.0.32:60025 as Atom (p2, c1, k30).
+1697203629: New connection from 192.168.0.32:60026 on port 1883.
+1697203629: Client Atom already connected, closing old connection.
+1697203629: New client connected from 192.168.0.32:60026 as Atom (p2, c1, k30).
+1697203635: New connection from 192.168.0.32:60027 on port 1883.
+1697203635: Client Atom already connected, closing old connection.
+1697203635: New client connected from 192.168.0.32:60027 as Atom (p2, c1, k30).
+1697203641: New connection from 192.168.0.32:60028 on port 1883.
+1697203641: Client Atom already connected, closing old connection.
+1697203641: New client connected from 192.168.0.32:60028 as Atom (p2, c1, k30).
+1697203647: New connection from 192.168.0.32:60029 on port 1883.
+1697203647: Client Atom already connected, closing old connection.
+1697203647: New client connected from 192.168.0.32:60029 as Atom (p2, c1, k30).
+1697203653: New connection from 192.168.0.32:60030 on port 1883.
+1697203653: Client Atom already connected, closing old connection.
+1697203653: New client connected from 192.168.0.32:60030 as Atom (p2, c1, k30).
+1697203684: New connection from 192.168.0.32:60178 on port 1883.
+1697203684: Client Atom already connected, closing old connection.
+1697203684: New client connected from 192.168.0.32:60178 as Atom (p2, c1, k30).
+1697203689: New connection from 192.168.0.32:60179 on port 1883.
+1697203689: Client Atom already connected, closing old connection.
+1697203689: New client connected from 192.168.0.32:60179 as Atom (p2, c1, k30).
+1697203695: New connection from 192.168.0.32:60180 on port 1883.
+1697203695: Client Atom already connected, closing old connection.
+1697203695: New client connected from 192.168.0.32:60180 as Atom (p2, c1, k30).
+1697203701: New connection from 192.168.0.32:60181 on port 1883.
+1697203701: Client Atom closed its connection.
+1697203701: New client connected from 192.168.0.32:60181 as Atom (p2, c1, k30).
+1697203707: New connection from 192.168.0.32:60182 on port 1883.
+1697203707: Client Atom already connected, closing old connection.
+1697203707: New client connected from 192.168.0.32:60182 as Atom (p2, c1, k30).
+1697203713: New connection from 192.168.0.32:60183 on port 1883.
+1697203713: Client Atom already connected, closing old connection.
+1697203713: New client connected from 192.168.0.32:60183 as Atom (p2, c1, k30).
+1697203719: New connection from 192.168.0.32:60184 on port 1883.
+1697203719: Client Atom already connected, closing old connection.
+1697203719: New client connected from 192.168.0.32:60184 as Atom (p2, c1, k30).
+1697203725: New connection from 192.168.0.32:60185 on port 1883.
+1697203725: Client Atom already connected, closing old connection.
+1697203725: New client connected from 192.168.0.32:60185 as Atom (p2, c1, k30).
+1697203731: New connection from 192.168.0.32:60186 on port 1883.
+1697203731: Client Atom already connected, closing old connection.
+1697203731: New client connected from 192.168.0.32:60186 as Atom (p2, c1, k30).
+1697203737: New connection from 192.168.0.32:60187 on port 1883.
+1697203737: Client Atom already connected, closing old connection.
+1697203737: New client connected from 192.168.0.32:60187 as Atom (p2, c1, k30).
+1697203743: New connection from 192.168.0.32:60188 on port 1883.
+1697203743: Client Atom already connected, closing old connection.
+1697203743: New client connected from 192.168.0.32:60188 as Atom (p2, c1, k30).
+1697203749: New connection from 192.168.0.32:60189 on port 1883.
+1697203749: Client Atom already connected, closing old connection.
+1697203749: New client connected from 192.168.0.32:60189 as Atom (p2, c1, k30).
+1697203755: New connection from 192.168.0.32:60190 on port 1883.
+1697203755: Client Atom already connected, closing old connection.
+1697203755: New client connected from 192.168.0.32:60190 as Atom (p2, c1, k30).
+1697203761: New connection from 192.168.0.32:60191 on port 1883.
+1697203761: Client Atom already connected, closing old connection.
+1697203761: New client connected from 192.168.0.32:60191 as Atom (p2, c1, k30).
+1697203767: New connection from 192.168.0.32:60192 on port 1883.
+1697203767: Client Atom already connected, closing old connection.
+1697203767: New client connected from 192.168.0.32:60192 as Atom (p2, c1, k30).
+1697203773: New connection from 192.168.0.32:60193 on port 1883.
+1697203773: Client Atom already connected, closing old connection.
+1697203773: New client connected from 192.168.0.32:60193 as Atom (p2, c1, k30).
+1697203779: New connection from 192.168.0.32:60194 on port 1883.
+1697203779: Client Atom already connected, closing old connection.
+1697203779: New client connected from 192.168.0.32:60194 as Atom (p2, c1, k30).
+1697203785: New connection from 192.168.0.32:60195 on port 1883.
+1697203785: Client Atom already connected, closing old connection.
+1697203785: New client connected from 192.168.0.32:60195 as Atom (p2, c1, k30).
+1697203791: New connection from 192.168.0.32:60196 on port 1883.
+1697203791: Client Atom already connected, closing old connection.
+1697203791: New client connected from 192.168.0.32:60196 as Atom (p2, c1, k30).
+1697203797: New connection from 192.168.0.32:60197 on port 1883.
+1697203797: Client Atom already connected, closing old connection.
+1697203797: New client connected from 192.168.0.32:60197 as Atom (p2, c1, k30).
+1697203803: New connection from 192.168.0.32:60198 on port 1883.
+1697203803: Client Atom already connected, closing old connection.
+1697203803: New client connected from 192.168.0.32:60198 as Atom (p2, c1, k30).
+1697203809: New connection from 192.168.0.32:60199 on port 1883.
+1697203809: Client Atom already connected, closing old connection.
+1697203809: New client connected from 192.168.0.32:60199 as Atom (p2, c1, k30).
+1697203815: New connection from 192.168.0.32:60200 on port 1883.
+1697203815: Client Atom already connected, closing old connection.
+1697203815: New client connected from 192.168.0.32:60200 as Atom (p2, c1, k30).
+1697203821: New connection from 192.168.0.32:60201 on port 1883.
+1697203821: Client Atom already connected, closing old connection.
+1697203821: New client connected from 192.168.0.32:60201 as Atom (p2, c1, k30).
+1697203827: New connection from 192.168.0.32:60202 on port 1883.
+1697203827: Client Atom already connected, closing old connection.
+1697203827: New client connected from 192.168.0.32:60202 as Atom (p2, c1, k30).
+1697203827: New connection from ::1:48822 on port 1883.
+1697203827: New client connected from ::1:48822 as auto-709DE0CD-B374-7EF0-447D-B7B3BA3507D6 (p2, c1, k60).
+1697203833: New connection from 192.168.0.32:60203 on port 1883.
+1697203833: Client Atom already connected, closing old connection.
+1697203833: New client connected from 192.168.0.32:60203 as Atom (p2, c1, k30).
+1697203839: New connection from 192.168.0.32:60204 on port 1883.
+1697203839: Client Atom already connected, closing old connection.
+1697203839: New client connected from 192.168.0.32:60204 as Atom (p2, c1, k30).
+1697203845: New connection from 192.168.0.32:60205 on port 1883.
+1697203845: Client Atom already connected, closing old connection.
+1697203845: New client connected from 192.168.0.32:60205 as Atom (p2, c1, k30).
+1697203851: New connection from 192.168.0.32:60206 on port 1883.
+1697203851: Client Atom already connected, closing old connection.
+1697203851: New client connected from 192.168.0.32:60206 as Atom (p2, c1, k30).
+1697203857: New connection from 192.168.0.32:60207 on port 1883.
+1697203857: Client Atom already connected, closing old connection.
+1697203857: New client connected from 192.168.0.32:60207 as Atom (p2, c1, k30).
+1697203860: Client Telegraf-Consumer-cpmHc disconnected.
+1697203863: New connection from 192.168.0.32:60208 on port 1883.
+1697203863: Client Atom already connected, closing old connection.
+1697203863: New client connected from 192.168.0.32:60208 as Atom (p2, c1, k30).
+1697203869: New connection from 192.168.0.32:60209 on port 1883.
+1697203869: Client Atom already connected, closing old connection.
+1697203869: New client connected from 192.168.0.32:60209 as Atom (p2, c1, k30).
+1697203871: mosquitto version 2.0.18 terminating
+1697203871: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697203982: mosquitto version 2.0.18 starting
+1697203982: Config loaded from /mosquitto/config/mosquitto.conf.
+1697203982: Opening ipv4 listen socket on port 1883.
+1697203982: Opening ipv6 listen socket on port 1883.
+1697203982: mosquitto version 2.0.18 running
+1697203983: New connection from 192.168.0.32:62903 on port 1883.
+1697203983: New client connected from 192.168.0.32:62903 as Atom (p2, c1, k30).
+1697203987: New connection from 10.89.0.1:59698 on port 1883.
+1697203987: New client connected from 10.89.0.1:59698 as Telegraf-Consumer-wT3HJ (p2, c1, k60).
+1697203988: New connection from 192.168.0.32:62904 on port 1883.
+1697203988: Client Atom already connected, closing old connection.
+1697203988: New client connected from 192.168.0.32:62904 as Atom (p2, c1, k30).
+1697203994: New connection from 192.168.0.32:62905 on port 1883.
+1697203994: Client Atom already connected, closing old connection.
+1697203994: New client connected from 192.168.0.32:62905 as Atom (p2, c1, k30).
+1697204000: New connection from 192.168.0.32:62906 on port 1883.
+1697204000: Client Atom closed its connection.
+1697204000: New client connected from 192.168.0.32:62906 as Atom (p2, c1, k30).
+1697204006: New connection from 192.168.0.32:62907 on port 1883.
+1697204006: Client Atom already connected, closing old connection.
+1697204006: New client connected from 192.168.0.32:62907 as Atom (p2, c1, k30).
+1697204012: New connection from 192.168.0.32:62908 on port 1883.
+1697204012: Client Atom already connected, closing old connection.
+1697204012: New client connected from 192.168.0.32:62908 as Atom (p2, c1, k30).
+1697204016: mosquitto version 2.0.18 terminating
+1697204016: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697204068: mosquitto version 2.0.18 starting
+1697204068: Config loaded from /mosquitto/config/mosquitto.conf.
+1697204068: Opening ipv4 listen socket on port 1883.
+1697204068: Opening ipv6 listen socket on port 1883.
+1697204068: mosquitto version 2.0.18 running
+1697204073: New connection from 10.89.0.1:37574 on port 1883.
+1697204073: New client connected from 10.89.0.1:37574 as Telegraf-Consumer-37mF7 (p2, c1, k60).
+1697204079: New connection from 192.168.0.32:56952 on port 1883.
+1697204079: New client connected from 192.168.0.32:56952 as Atom (p2, c1, k30).
+1697204084: New connection from 192.168.0.32:56953 on port 1883.
+1697204084: Client Atom already connected, closing old connection.
+1697204084: New client connected from 192.168.0.32:56953 as Atom (p2, c1, k30).
+1697204090: New connection from 192.168.0.32:56954 on port 1883.
+1697204090: Client Atom already connected, closing old connection.
+1697204090: New client connected from 192.168.0.32:56954 as Atom (p2, c1, k30).
+1697204096: New connection from 192.168.0.32:56955 on port 1883.
+1697204096: Client Atom closed its connection.
+1697204096: New client connected from 192.168.0.32:56955 as Atom (p2, c1, k30).
+1697204102: New connection from 192.168.0.32:56956 on port 1883.
+1697204102: Client Atom already connected, closing old connection.
+1697204102: New client connected from 192.168.0.32:56956 as Atom (p2, c1, k30).
+1697204108: New connection from 192.168.0.32:56957 on port 1883.
+1697204108: Client Atom already connected, closing old connection.
+1697204108: New client connected from 192.168.0.32:56957 as Atom (p2, c1, k30).
+1697204114: New connection from 192.168.0.32:56958 on port 1883.
+1697204114: Client Atom already connected, closing old connection.
+1697204114: New client connected from 192.168.0.32:56958 as Atom (p2, c1, k30).
+1697204120: New connection from 192.168.0.32:56959 on port 1883.
+1697204120: Client Atom already connected, closing old connection.
+1697204120: New client connected from 192.168.0.32:56959 as Atom (p2, c1, k30).
+1697204126: New connection from 192.168.0.32:56960 on port 1883.
+1697204126: Client Atom already connected, closing old connection.
+1697204126: New client connected from 192.168.0.32:56960 as Atom (p2, c1, k30).
+1697204132: New connection from 192.168.0.32:56961 on port 1883.
+1697204132: Client Atom already connected, closing old connection.
+1697204132: New client connected from 192.168.0.32:56961 as Atom (p2, c1, k30).
+1697204138: New connection from 192.168.0.32:56962 on port 1883.
+1697204138: Client Atom already connected, closing old connection.
+1697204138: New client connected from 192.168.0.32:56962 as Atom (p2, c1, k30).
+1697204144: New connection from 192.168.0.32:56963 on port 1883.
+1697204144: Client Atom already connected, closing old connection.
+1697204144: New client connected from 192.168.0.32:56963 as Atom (p2, c1, k30).
+1697204150: New connection from 192.168.0.32:56964 on port 1883.
+1697204150: Client Atom already connected, closing old connection.
+1697204150: New client connected from 192.168.0.32:56964 as Atom (p2, c1, k30).
+1697204156: New connection from 192.168.0.32:56965 on port 1883.
+1697204156: Client Atom already connected, closing old connection.
+1697204156: New client connected from 192.168.0.32:56965 as Atom (p2, c1, k30).
+1697204162: New connection from 192.168.0.32:56966 on port 1883.
+1697204162: Client Atom already connected, closing old connection.
+1697204162: New client connected from 192.168.0.32:56966 as Atom (p2, c1, k30).
+1697204168: New connection from 192.168.0.32:56967 on port 1883.
+1697204168: Client Atom already connected, closing old connection.
+1697204168: New client connected from 192.168.0.32:56967 as Atom (p2, c1, k30).
+1697204174: New connection from 192.168.0.32:56968 on port 1883.
+1697204174: Client Atom already connected, closing old connection.
+1697204174: New client connected from 192.168.0.32:56968 as Atom (p2, c1, k30).
+1697204180: New connection from 192.168.0.32:56969 on port 1883.
+1697204180: Client Atom already connected, closing old connection.
+1697204180: New client connected from 192.168.0.32:56969 as Atom (p2, c1, k30).
+1697204186: New connection from 192.168.0.32:56970 on port 1883.
+1697204186: Client Atom already connected, closing old connection.
+1697204186: New client connected from 192.168.0.32:56970 as Atom (p2, c1, k30).
+1697204192: New connection from 192.168.0.32:56971 on port 1883.
+1697204192: Client Atom already connected, closing old connection.
+1697204192: New client connected from 192.168.0.32:56971 as Atom (p2, c1, k30).
+1697204198: New connection from 192.168.0.32:56972 on port 1883.
+1697204198: Client Atom already connected, closing old connection.
+1697204198: New client connected from 192.168.0.32:56972 as Atom (p2, c1, k30).
+1697204204: New connection from 192.168.0.32:56973 on port 1883.
+1697204204: Client Atom already connected, closing old connection.
+1697204204: New client connected from 192.168.0.32:56973 as Atom (p2, c1, k30).
+1697204210: New connection from 192.168.0.32:56974 on port 1883.
+1697204210: Client Atom already connected, closing old connection.
+1697204210: New client connected from 192.168.0.32:56974 as Atom (p2, c1, k30).
+1697204216: New connection from 192.168.0.32:56975 on port 1883.
+1697204216: Client Atom already connected, closing old connection.
+1697204216: New client connected from 192.168.0.32:56975 as Atom (p2, c1, k30).
+1697204222: New connection from 192.168.0.32:56976 on port 1883.
+1697204222: Client Atom already connected, closing old connection.
+1697204222: New client connected from 192.168.0.32:56976 as Atom (p2, c1, k30).
+1697204228: New connection from 192.168.0.32:56977 on port 1883.
+1697204228: Client Atom already connected, closing old connection.
+1697204228: New client connected from 192.168.0.32:56977 as Atom (p2, c1, k30).
+1697204234: New connection from 192.168.0.32:56978 on port 1883.
+1697204234: Client Atom already connected, closing old connection.
+1697204234: New client connected from 192.168.0.32:56978 as Atom (p2, c1, k30).
+1697204240: New connection from 192.168.0.32:56979 on port 1883.
+1697204240: Client Atom already connected, closing old connection.
+1697204240: New client connected from 192.168.0.32:56979 as Atom (p2, c1, k30).
+1697204246: New connection from 192.168.0.32:56980 on port 1883.
+1697204246: Client Atom already connected, closing old connection.
+1697204246: New client connected from 192.168.0.32:56980 as Atom (p2, c1, k30).
+1697204252: New connection from 192.168.0.32:56981 on port 1883.
+1697204252: Client Atom already connected, closing old connection.
+1697204252: New client connected from 192.168.0.32:56981 as Atom (p2, c1, k30).
+1697204258: New connection from 192.168.0.32:56982 on port 1883.
+1697204258: Client Atom already connected, closing old connection.
+1697204258: New client connected from 192.168.0.32:56982 as Atom (p2, c1, k30).
+1697204264: New connection from 192.168.0.32:56983 on port 1883.
+1697204264: Client Atom already connected, closing old connection.
+1697204264: New client connected from 192.168.0.32:56983 as Atom (p2, c1, k30).
+1697204270: New connection from 192.168.0.32:56984 on port 1883.
+1697204270: Client Atom already connected, closing old connection.
+1697204270: New client connected from 192.168.0.32:56984 as Atom (p2, c1, k30).
+1697204276: New connection from 192.168.0.32:56985 on port 1883.
+1697204276: Client Atom already connected, closing old connection.
+1697204276: New client connected from 192.168.0.32:56985 as Atom (p2, c1, k30).
+1697204282: New connection from 192.168.0.32:56986 on port 1883.
+1697204282: Client Atom already connected, closing old connection.
+1697204282: New client connected from 192.168.0.32:56986 as Atom (p2, c1, k30).
+1697204288: New connection from 192.168.0.32:56987 on port 1883.
+1697204288: Client Atom already connected, closing old connection.
+1697204288: New client connected from 192.168.0.32:56987 as Atom (p2, c1, k30).
+1697204289: mosquitto version 2.0.18 terminating
+1697204289: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697204290: mosquitto version 2.0.18 starting
+1697204290: Config loaded from /mosquitto/config/mosquitto.conf.
+1697204290: Opening ipv4 listen socket on port 1883.
+1697204290: Opening ipv6 listen socket on port 1883.
+1697204290: mosquitto version 2.0.18 running
+1697204291: New connection from 10.89.0.1:54146 on port 1883.
+1697204291: New client connected from 10.89.0.1:54146 as Telegraf-Consumer-9nHBV (p2, c1, k60).
+1697204291: Client Telegraf-Consumer-9nHBV disconnected.
+1697204293: mosquitto version 2.0.18 terminating
+1697204293: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697204307: mosquitto version 2.0.18 starting
+1697204307: Config loaded from /mosquitto/config/mosquitto.conf.
+1697204307: Opening ipv4 listen socket on port 1883.
+1697204307: Opening ipv6 listen socket on port 1883.
+1697204307: mosquitto version 2.0.18 running
+1697204312: New connection from 10.89.0.1:52390 on port 1883.
+1697204312: New client connected from 10.89.0.1:52390 as Telegraf-Consumer-JKJs3 (p2, c1, k60).
+1697204321: New connection from 192.168.0.32:50508 on port 1883.
+1697204321: New client connected from 192.168.0.32:50508 as Atom (p2, c1, k30).
+1697204326: New connection from 192.168.0.32:50509 on port 1883.
+1697204326: Client Atom already connected, closing old connection.
+1697204326: New client connected from 192.168.0.32:50509 as Atom (p2, c1, k30).
+1697204332: New connection from 192.168.0.32:50510 on port 1883.
+1697204332: Client Atom already connected, closing old connection.
+1697204332: New client connected from 192.168.0.32:50510 as Atom (p2, c1, k30).
+1697204338: New connection from 192.168.0.32:50511 on port 1883.
+1697204338: Client Atom already connected, closing old connection.
+1697204338: New client connected from 192.168.0.32:50511 as Atom (p2, c1, k30).
+1697204344: New connection from 192.168.0.32:50512 on port 1883.
+1697204344: Client Atom already connected, closing old connection.
+1697204344: New client connected from 192.168.0.32:50512 as Atom (p2, c1, k30).
+1697204350: New connection from 192.168.0.32:50513 on port 1883.
+1697204350: Client Atom already connected, closing old connection.
+1697204350: New client connected from 192.168.0.32:50513 as Atom (p2, c1, k30).
+1697204356: New connection from 192.168.0.32:50514 on port 1883.
+1697204356: Client Atom already connected, closing old connection.
+1697204356: New client connected from 192.168.0.32:50514 as Atom (p2, c1, k30).
+1697204362: New connection from 192.168.0.32:50515 on port 1883.
+1697204362: Client Atom already connected, closing old connection.
+1697204362: New client connected from 192.168.0.32:50515 as Atom (p2, c1, k30).
+1697204368: New connection from 192.168.0.32:50516 on port 1883.
+1697204368: Client Atom already connected, closing old connection.
+1697204368: New client connected from 192.168.0.32:50516 as Atom (p2, c1, k30).
+1697204374: New connection from 192.168.0.32:50517 on port 1883.
+1697204374: Client Atom already connected, closing old connection.
+1697204374: New client connected from 192.168.0.32:50517 as Atom (p2, c1, k30).
+1697204380: New connection from 192.168.0.32:50518 on port 1883.
+1697204380: Client Atom already connected, closing old connection.
+1697204380: New client connected from 192.168.0.32:50518 as Atom (p2, c1, k30).
+1697204386: New connection from 192.168.0.32:50519 on port 1883.
+1697204386: Client Atom already connected, closing old connection.
+1697204386: New client connected from 192.168.0.32:50519 as Atom (p2, c1, k30).
+1697204392: New connection from 192.168.0.32:50520 on port 1883.
+1697204392: Client Atom already connected, closing old connection.
+1697204392: New client connected from 192.168.0.32:50520 as Atom (p2, c1, k30).
+1697204398: New connection from 192.168.0.32:50521 on port 1883.
+1697204398: Client Atom already connected, closing old connection.
+1697204398: New client connected from 192.168.0.32:50521 as Atom (p2, c1, k30).
+1697204404: New connection from 192.168.0.32:50522 on port 1883.
+1697204404: Client Atom already connected, closing old connection.
+1697204404: New client connected from 192.168.0.32:50522 as Atom (p2, c1, k30).
+1697204410: New connection from 192.168.0.32:50523 on port 1883.
+1697204410: Client Atom already connected, closing old connection.
+1697204410: New client connected from 192.168.0.32:50523 as Atom (p2, c1, k30).
+1697204416: New connection from 192.168.0.32:50524 on port 1883.
+1697204416: Client Atom already connected, closing old connection.
+1697204416: New client connected from 192.168.0.32:50524 as Atom (p2, c1, k30).
+1697204422: New connection from 192.168.0.32:50525 on port 1883.
+1697204422: Client Atom already connected, closing old connection.
+1697204422: New client connected from 192.168.0.32:50525 as Atom (p2, c1, k30).
+1697204428: New connection from 192.168.0.32:50526 on port 1883.
+1697204428: Client Atom already connected, closing old connection.
+1697204428: New client connected from 192.168.0.32:50526 as Atom (p2, c1, k30).
+1697204434: New connection from 192.168.0.32:50527 on port 1883.
+1697204434: Client Atom already connected, closing old connection.
+1697204434: New client connected from 192.168.0.32:50527 as Atom (p2, c1, k30).
+1697204440: New connection from 192.168.0.32:50528 on port 1883.
+1697204440: Client Atom already connected, closing old connection.
+1697204440: New client connected from 192.168.0.32:50528 as Atom (p2, c1, k30).
+1697204446: New connection from 192.168.0.32:50529 on port 1883.
+1697204446: Client Atom already connected, closing old connection.
+1697204446: New client connected from 192.168.0.32:50529 as Atom (p2, c1, k30).
+1697204452: New connection from 192.168.0.32:50530 on port 1883.
+1697204452: Client Atom already connected, closing old connection.
+1697204452: New client connected from 192.168.0.32:50530 as Atom (p2, c1, k30).
+1697204458: New connection from 192.168.0.32:50531 on port 1883.
+1697204458: Client Atom already connected, closing old connection.
+1697204458: New client connected from 192.168.0.32:50531 as Atom (p2, c1, k30).
+1697204464: Client Atom closed its connection.
+1697204464: New connection from 192.168.0.32:50532 on port 1883.
+1697204464: New client connected from 192.168.0.32:50532 as Atom (p2, c1, k30).
+1697204470: New connection from 192.168.0.32:50533 on port 1883.
+1697204470: Client Atom already connected, closing old connection.
+1697204470: New client connected from 192.168.0.32:50533 as Atom (p2, c1, k30).
+1697204476: New connection from 192.168.0.32:50534 on port 1883.
+1697204476: Client Atom already connected, closing old connection.
+1697204476: New client connected from 192.168.0.32:50534 as Atom (p2, c1, k30).
+1697204482: New connection from 192.168.0.32:50535 on port 1883.
+1697204482: Client Atom already connected, closing old connection.
+1697204482: New client connected from 192.168.0.32:50535 as Atom (p2, c1, k30).
+1697204488: New connection from 192.168.0.32:50536 on port 1883.
+1697204488: Client Atom already connected, closing old connection.
+1697204488: New client connected from 192.168.0.32:50536 as Atom (p2, c1, k30).
+1697204494: New connection from 192.168.0.32:50537 on port 1883.
+1697204494: Client Atom already connected, closing old connection.
+1697204494: New client connected from 192.168.0.32:50537 as Atom (p2, c1, k30).
+1697204500: New connection from 192.168.0.32:50538 on port 1883.
+1697204500: Client Atom already connected, closing old connection.
+1697204500: New client connected from 192.168.0.32:50538 as Atom (p2, c1, k30).
+1697204506: New connection from 192.168.0.32:50539 on port 1883.
+1697204506: Client Atom already connected, closing old connection.
+1697204506: New client connected from 192.168.0.32:50539 as Atom (p2, c1, k30).
+1697204512: New connection from 192.168.0.32:50540 on port 1883.
+1697204512: Client Atom already connected, closing old connection.
+1697204512: New client connected from 192.168.0.32:50540 as Atom (p2, c1, k30).
+1697204518: New connection from 192.168.0.32:50541 on port 1883.
+1697204518: Client Atom already connected, closing old connection.
+1697204518: New client connected from 192.168.0.32:50541 as Atom (p2, c1, k30).
+1697204524: New connection from 192.168.0.32:50542 on port 1883.
+1697204524: Client Atom already connected, closing old connection.
+1697204524: New client connected from 192.168.0.32:50542 as Atom (p2, c1, k30).
+1697204530: New connection from 192.168.0.32:50543 on port 1883.
+1697204530: Client Atom already connected, closing old connection.
+1697204530: New client connected from 192.168.0.32:50543 as Atom (p2, c1, k30).
+1697204536: New connection from 192.168.0.32:50544 on port 1883.
+1697204536: Client Atom already connected, closing old connection.
+1697204536: New client connected from 192.168.0.32:50544 as Atom (p2, c1, k30).
+1697204542: New connection from 192.168.0.32:50545 on port 1883.
+1697204542: Client Atom already connected, closing old connection.
+1697204542: New client connected from 192.168.0.32:50545 as Atom (p2, c1, k30).
+1697204548: New connection from 192.168.0.32:50546 on port 1883.
+1697204548: Client Atom already connected, closing old connection.
+1697204548: New client connected from 192.168.0.32:50546 as Atom (p2, c1, k30).
+1697204554: New connection from 192.168.0.32:50547 on port 1883.
+1697204554: Client Atom already connected, closing old connection.
+1697204554: New client connected from 192.168.0.32:50547 as Atom (p2, c1, k30).
+1697204560: New connection from 192.168.0.32:50548 on port 1883.
+1697204560: Client Atom already connected, closing old connection.
+1697204560: New client connected from 192.168.0.32:50548 as Atom (p2, c1, k30).
+1697204566: New connection from 192.168.0.32:50549 on port 1883.
+1697204566: Client Atom already connected, closing old connection.
+1697204566: New client connected from 192.168.0.32:50549 as Atom (p2, c1, k30).
+1697204572: New connection from 192.168.0.32:50550 on port 1883.
+1697204572: Client Atom already connected, closing old connection.
+1697204572: New client connected from 192.168.0.32:50550 as Atom (p2, c1, k30).
+1697204578: New connection from 192.168.0.32:50551 on port 1883.
+1697204578: Client Atom already connected, closing old connection.
+1697204578: New client connected from 192.168.0.32:50551 as Atom (p2, c1, k30).
+1697204584: New connection from 192.168.0.32:50552 on port 1883.
+1697204584: Client Atom already connected, closing old connection.
+1697204584: New client connected from 192.168.0.32:50552 as Atom (p2, c1, k30).
+1697204590: Client Atom closed its connection.
+1697204590: New connection from 192.168.0.32:50553 on port 1883.
+1697204590: New client connected from 192.168.0.32:50553 as Atom (p2, c1, k30).
+1697204596: New connection from 192.168.0.32:50554 on port 1883.
+1697204596: Client Atom already connected, closing old connection.
+1697204596: New client connected from 192.168.0.32:50554 as Atom (p2, c1, k30).
+1697204602: New connection from 192.168.0.32:50555 on port 1883.
+1697204602: Client Atom already connected, closing old connection.
+1697204602: New client connected from 192.168.0.32:50555 as Atom (p2, c1, k30).
+1697204608: New connection from 192.168.0.32:50556 on port 1883.
+1697204608: Client Atom already connected, closing old connection.
+1697204608: New client connected from 192.168.0.32:50556 as Atom (p2, c1, k30).
+1697204614: New connection from 192.168.0.32:50557 on port 1883.
+1697204614: Client Atom already connected, closing old connection.
+1697204614: New client connected from 192.168.0.32:50557 as Atom (p2, c1, k30).
+1697204620: New connection from 192.168.0.32:50558 on port 1883.
+1697204620: Client Atom already connected, closing old connection.
+1697204620: New client connected from 192.168.0.32:50558 as Atom (p2, c1, k30).
+1697204626: New connection from 192.168.0.32:50559 on port 1883.
+1697204626: Client Atom already connected, closing old connection.
+1697204626: New client connected from 192.168.0.32:50559 as Atom (p2, c1, k30).
+1697204632: New connection from 192.168.0.32:50560 on port 1883.
+1697204632: Client Atom already connected, closing old connection.
+1697204632: New client connected from 192.168.0.32:50560 as Atom (p2, c1, k30).
+1697204638: New connection from 192.168.0.32:50561 on port 1883.
+1697204638: Client Atom already connected, closing old connection.
+1697204638: New client connected from 192.168.0.32:50561 as Atom (p2, c1, k30).
+1697204644: New connection from 192.168.0.32:50562 on port 1883.
+1697204644: Client Atom already connected, closing old connection.
+1697204644: New client connected from 192.168.0.32:50562 as Atom (p2, c1, k30).
+1697204650: New connection from 192.168.0.32:50563 on port 1883.
+1697204650: Client Atom already connected, closing old connection.
+1697204650: New client connected from 192.168.0.32:50563 as Atom (p2, c1, k30).
+1697204656: New connection from 192.168.0.32:50564 on port 1883.
+1697204656: Client Atom already connected, closing old connection.
+1697204656: New client connected from 192.168.0.32:50564 as Atom (p2, c1, k30).
+1697204662: New connection from 192.168.0.32:50565 on port 1883.
+1697204662: Client Atom already connected, closing old connection.
+1697204662: New client connected from 192.168.0.32:50565 as Atom (p2, c1, k30).
+1697204668: New connection from 192.168.0.32:50566 on port 1883.
+1697204668: Client Atom already connected, closing old connection.
+1697204668: New client connected from 192.168.0.32:50566 as Atom (p2, c1, k30).
+1697204674: New connection from 192.168.0.32:50567 on port 1883.
+1697204674: Client Atom already connected, closing old connection.
+1697204674: New client connected from 192.168.0.32:50567 as Atom (p2, c1, k30).
+1697204680: New connection from 192.168.0.32:50568 on port 1883.
+1697204680: Client Atom already connected, closing old connection.
+1697204680: New client connected from 192.168.0.32:50568 as Atom (p2, c1, k30).
+1697204686: New connection from 192.168.0.32:50569 on port 1883.
+1697204686: Client Atom already connected, closing old connection.
+1697204686: New client connected from 192.168.0.32:50569 as Atom (p2, c1, k30).
+1697204692: New connection from 192.168.0.32:50570 on port 1883.
+1697204692: Client Atom already connected, closing old connection.
+1697204692: New client connected from 192.168.0.32:50570 as Atom (p2, c1, k30).
+1697204698: New connection from 192.168.0.32:50571 on port 1883.
+1697204698: Client Atom already connected, closing old connection.
+1697204698: New client connected from 192.168.0.32:50571 as Atom (p2, c1, k30).
+1697204704: New connection from 192.168.0.32:50572 on port 1883.
+1697204704: Client Atom already connected, closing old connection.
+1697204704: New client connected from 192.168.0.32:50572 as Atom (p2, c1, k30).
+1697204710: New connection from 192.168.0.32:50573 on port 1883.
+1697204710: Client Atom already connected, closing old connection.
+1697204710: New client connected from 192.168.0.32:50573 as Atom (p2, c1, k30).
+1697204716: New connection from 192.168.0.32:50574 on port 1883.
+1697204716: Client Atom closed its connection.
+1697204716: New client connected from 192.168.0.32:50574 as Atom (p2, c1, k30).
+1697204722: New connection from 192.168.0.32:50575 on port 1883.
+1697204722: Client Atom already connected, closing old connection.
+1697204722: New client connected from 192.168.0.32:50575 as Atom (p2, c1, k30).
+1697204728: New connection from 192.168.0.32:50576 on port 1883.
+1697204728: Client Atom already connected, closing old connection.
+1697204728: New client connected from 192.168.0.32:50576 as Atom (p2, c1, k30).
+1697204734: New connection from 192.168.0.32:50577 on port 1883.
+1697204734: Client Atom already connected, closing old connection.
+1697204734: New client connected from 192.168.0.32:50577 as Atom (p2, c1, k30).
+1697204740: New connection from 192.168.0.32:50578 on port 1883.
+1697204740: Client Atom already connected, closing old connection.
+1697204740: New client connected from 192.168.0.32:50578 as Atom (p2, c1, k30).
+1697204746: New connection from 192.168.0.32:50579 on port 1883.
+1697204746: Client Atom already connected, closing old connection.
+1697204746: New client connected from 192.168.0.32:50579 as Atom (p2, c1, k30).
+1697204752: New connection from 192.168.0.32:50580 on port 1883.
+1697204752: Client Atom already connected, closing old connection.
+1697204752: New client connected from 192.168.0.32:50580 as Atom (p2, c1, k30).
+1697204758: New connection from 192.168.0.32:50581 on port 1883.
+1697204758: Client Atom already connected, closing old connection.
+1697204758: New client connected from 192.168.0.32:50581 as Atom (p2, c1, k30).
+1697204764: New connection from 192.168.0.32:50582 on port 1883.
+1697204764: Client Atom already connected, closing old connection.
+1697204764: New client connected from 192.168.0.32:50582 as Atom (p2, c1, k30).
+1697204770: New connection from 192.168.0.32:50583 on port 1883.
+1697204770: Client Atom already connected, closing old connection.
+1697204770: New client connected from 192.168.0.32:50583 as Atom (p2, c1, k30).
+1697204776: New connection from 192.168.0.32:50584 on port 1883.
+1697204776: Client Atom already connected, closing old connection.
+1697204776: New client connected from 192.168.0.32:50584 as Atom (p2, c1, k30).
+1697204782: New connection from 192.168.0.32:50585 on port 1883.
+1697204782: Client Atom already connected, closing old connection.
+1697204782: New client connected from 192.168.0.32:50585 as Atom (p2, c1, k30).
+1697204788: New connection from 192.168.0.32:50586 on port 1883.
+1697204788: Client Atom already connected, closing old connection.
+1697204788: New client connected from 192.168.0.32:50586 as Atom (p2, c1, k30).
+1697204794: New connection from 192.168.0.32:50587 on port 1883.
+1697204794: Client Atom already connected, closing old connection.
+1697204794: New client connected from 192.168.0.32:50587 as Atom (p2, c1, k30).
+1697204800: New connection from 192.168.0.32:50588 on port 1883.
+1697204800: Client Atom already connected, closing old connection.
+1697204800: New client connected from 192.168.0.32:50588 as Atom (p2, c1, k30).
+1697204806: New connection from 192.168.0.32:50589 on port 1883.
+1697204806: Client Atom already connected, closing old connection.
+1697204806: New client connected from 192.168.0.32:50589 as Atom (p2, c1, k30).
+1697204812: New connection from 192.168.0.32:50590 on port 1883.
+1697204812: Client Atom already connected, closing old connection.
+1697204812: New client connected from 192.168.0.32:50590 as Atom (p2, c1, k30).
+1697204818: New connection from 192.168.0.32:50591 on port 1883.
+1697204818: Client Atom already connected, closing old connection.
+1697204818: New client connected from 192.168.0.32:50591 as Atom (p2, c1, k30).
+1697204824: New connection from 192.168.0.32:50592 on port 1883.
+1697204824: Client Atom already connected, closing old connection.
+1697204824: New client connected from 192.168.0.32:50592 as Atom (p2, c1, k30).
+1697204830: New connection from 192.168.0.32:50593 on port 1883.
+1697204830: Client Atom already connected, closing old connection.
+1697204830: New client connected from 192.168.0.32:50593 as Atom (p2, c1, k30).
+1697204836: New connection from 192.168.0.32:50594 on port 1883.
+1697204836: Client Atom already connected, closing old connection.
+1697204836: New client connected from 192.168.0.32:50594 as Atom (p2, c1, k30).
+1697204842: New connection from 192.168.0.32:50595 on port 1883.
+1697204842: Client Atom closed its connection.
+1697204842: New client connected from 192.168.0.32:50595 as Atom (p2, c1, k30).
+1697204848: New connection from 192.168.0.32:50596 on port 1883.
+1697204848: Client Atom already connected, closing old connection.
+1697204848: New client connected from 192.168.0.32:50596 as Atom (p2, c1, k30).
+1697204854: New connection from 192.168.0.32:50597 on port 1883.
+1697204854: Client Atom already connected, closing old connection.
+1697204854: New client connected from 192.168.0.32:50597 as Atom (p2, c1, k30).
+1697204860: New connection from 192.168.0.32:50598 on port 1883.
+1697204860: Client Atom already connected, closing old connection.
+1697204860: New client connected from 192.168.0.32:50598 as Atom (p2, c1, k30).
+1697204866: New connection from 192.168.0.32:50599 on port 1883.
+1697204866: Client Atom already connected, closing old connection.
+1697204866: New client connected from 192.168.0.32:50599 as Atom (p2, c1, k30).
+1697204872: New connection from 192.168.0.32:50600 on port 1883.
+1697204872: Client Atom already connected, closing old connection.
+1697204872: New client connected from 192.168.0.32:50600 as Atom (p2, c1, k30).
+1697204878: New connection from 192.168.0.32:50601 on port 1883.
+1697204878: Client Atom already connected, closing old connection.
+1697204878: New client connected from 192.168.0.32:50601 as Atom (p2, c1, k30).
+1697204884: New connection from 192.168.0.32:50602 on port 1883.
+1697204884: Client Atom already connected, closing old connection.
+1697204884: New client connected from 192.168.0.32:50602 as Atom (p2, c1, k30).
+1697204890: New connection from 192.168.0.32:50603 on port 1883.
+1697204890: Client Atom already connected, closing old connection.
+1697204890: New client connected from 192.168.0.32:50603 as Atom (p2, c1, k30).
+1697204896: New connection from 192.168.0.32:50604 on port 1883.
+1697204896: Client Atom already connected, closing old connection.
+1697204896: New client connected from 192.168.0.32:50604 as Atom (p2, c1, k30).
+1697204902: New connection from 192.168.0.32:50605 on port 1883.
+1697204902: Client Atom already connected, closing old connection.
+1697204902: New client connected from 192.168.0.32:50605 as Atom (p2, c1, k30).
+1697204908: New connection from 192.168.0.32:50606 on port 1883.
+1697204908: Client Atom already connected, closing old connection.
+1697204908: New client connected from 192.168.0.32:50606 as Atom (p2, c1, k30).
+1697204914: New connection from 192.168.0.32:50607 on port 1883.
+1697204914: Client Atom already connected, closing old connection.
+1697204914: New client connected from 192.168.0.32:50607 as Atom (p2, c1, k30).
+1697204920: New connection from 192.168.0.32:50608 on port 1883.
+1697204920: Client Atom already connected, closing old connection.
+1697204920: New client connected from 192.168.0.32:50608 as Atom (p2, c1, k30).
+1697204926: New connection from 192.168.0.32:50609 on port 1883.
+1697204926: Client Atom already connected, closing old connection.
+1697204926: New client connected from 192.168.0.32:50609 as Atom (p2, c1, k30).
+1697204932: New connection from 192.168.0.32:50610 on port 1883.
+1697204932: Client Atom already connected, closing old connection.
+1697204932: New client connected from 192.168.0.32:50610 as Atom (p2, c1, k30).
+1697204938: New connection from 192.168.0.32:50611 on port 1883.
+1697204938: Client Atom already connected, closing old connection.
+1697204938: New client connected from 192.168.0.32:50611 as Atom (p2, c1, k30).
+1697204944: New connection from 192.168.0.32:50612 on port 1883.
+1697204944: Client Atom already connected, closing old connection.
+1697204944: New client connected from 192.168.0.32:50612 as Atom (p2, c1, k30).
+1697204950: New connection from 192.168.0.32:50613 on port 1883.
+1697204950: Client Atom already connected, closing old connection.
+1697204950: New client connected from 192.168.0.32:50613 as Atom (p2, c1, k30).
+1697204956: New connection from 192.168.0.32:50614 on port 1883.
+1697204956: Client Atom already connected, closing old connection.
+1697204956: New client connected from 192.168.0.32:50614 as Atom (p2, c1, k30).
+1697204962: New connection from 192.168.0.32:50615 on port 1883.
+1697204962: Client Atom already connected, closing old connection.
+1697204962: New client connected from 192.168.0.32:50615 as Atom (p2, c1, k30).
+1697204968: New connection from 192.168.0.32:50616 on port 1883.
+1697204968: Client Atom closed its connection.
+1697204968: New client connected from 192.168.0.32:50616 as Atom (p2, c1, k30).
+1697204974: New connection from 192.168.0.32:50617 on port 1883.
+1697204974: Client Atom already connected, closing old connection.
+1697204974: New client connected from 192.168.0.32:50617 as Atom (p2, c1, k30).
+1697204980: New connection from 192.168.0.32:50618 on port 1883.
+1697204980: Client Atom already connected, closing old connection.
+1697204980: New client connected from 192.168.0.32:50618 as Atom (p2, c1, k30).
+1697204986: New connection from 192.168.0.32:50619 on port 1883.
+1697204986: Client Atom already connected, closing old connection.
+1697204986: New client connected from 192.168.0.32:50619 as Atom (p2, c1, k30).
+1697204992: New connection from 192.168.0.32:50620 on port 1883.
+1697204992: Client Atom already connected, closing old connection.
+1697204992: New client connected from 192.168.0.32:50620 as Atom (p2, c1, k30).
+1697204998: New connection from 192.168.0.32:50621 on port 1883.
+1697204998: Client Atom already connected, closing old connection.
+1697204998: New client connected from 192.168.0.32:50621 as Atom (p2, c1, k30).
+1697205004: New connection from 192.168.0.32:50622 on port 1883.
+1697205004: Client Atom already connected, closing old connection.
+1697205004: New client connected from 192.168.0.32:50622 as Atom (p2, c1, k30).
+1697205010: New connection from 192.168.0.32:50623 on port 1883.
+1697205010: Client Atom already connected, closing old connection.
+1697205010: New client connected from 192.168.0.32:50623 as Atom (p2, c1, k30).
+1697205016: New connection from 192.168.0.32:50624 on port 1883.
+1697205016: Client Atom already connected, closing old connection.
+1697205016: New client connected from 192.168.0.32:50624 as Atom (p2, c1, k30).
+1697205022: New connection from 192.168.0.32:50625 on port 1883.
+1697205022: Client Atom already connected, closing old connection.
+1697205022: New client connected from 192.168.0.32:50625 as Atom (p2, c1, k30).
+1697205028: New connection from 192.168.0.32:50626 on port 1883.
+1697205028: Client Atom already connected, closing old connection.
+1697205028: New client connected from 192.168.0.32:50626 as Atom (p2, c1, k30).
+1697205034: New connection from 192.168.0.32:50627 on port 1883.
+1697205034: Client Atom already connected, closing old connection.
+1697205034: New client connected from 192.168.0.32:50627 as Atom (p2, c1, k30).
+1697205040: New connection from 192.168.0.32:50628 on port 1883.
+1697205040: Client Atom already connected, closing old connection.
+1697205040: New client connected from 192.168.0.32:50628 as Atom (p2, c1, k30).
+1697205046: New connection from 192.168.0.32:50629 on port 1883.
+1697205046: Client Atom already connected, closing old connection.
+1697205046: New client connected from 192.168.0.32:50629 as Atom (p2, c1, k30).
+1697205052: New connection from 192.168.0.32:50630 on port 1883.
+1697205052: Client Atom already connected, closing old connection.
+1697205052: New client connected from 192.168.0.32:50630 as Atom (p2, c1, k30).
+1697205058: New connection from 192.168.0.32:50631 on port 1883.
+1697205058: Client Atom already connected, closing old connection.
+1697205058: New client connected from 192.168.0.32:50631 as Atom (p2, c1, k30).
+1697205064: New connection from 192.168.0.32:50632 on port 1883.
+1697205064: Client Atom already connected, closing old connection.
+1697205064: New client connected from 192.168.0.32:50632 as Atom (p2, c1, k30).
+1697205070: New connection from 192.168.0.32:50633 on port 1883.
+1697205070: Client Atom already connected, closing old connection.
+1697205070: New client connected from 192.168.0.32:50633 as Atom (p2, c1, k30).
+1697205076: New connection from 192.168.0.32:50634 on port 1883.
+1697205076: Client Atom already connected, closing old connection.
+1697205076: New client connected from 192.168.0.32:50634 as Atom (p2, c1, k30).
+1697205082: New connection from 192.168.0.32:50635 on port 1883.
+1697205082: Client Atom already connected, closing old connection.
+1697205082: New client connected from 192.168.0.32:50635 as Atom (p2, c1, k30).
+1697205088: New connection from 192.168.0.32:50636 on port 1883.
+1697205088: Client Atom already connected, closing old connection.
+1697205088: New client connected from 192.168.0.32:50636 as Atom (p2, c1, k30).
+1697205093: Client Telegraf-Consumer-JKJs3 closed its connection.
+1697205094: New connection from 192.168.0.32:50637 on port 1883.
+1697205094: Client Atom already connected, closing old connection.
+1697205094: New client connected from 192.168.0.32:50637 as Atom (p2, c1, k30).
+1697205100: New connection from 192.168.0.32:50638 on port 1883.
+1697205100: Client Atom already connected, closing old connection.
+1697205100: New client connected from 192.168.0.32:50638 as Atom (p2, c1, k30).
+1697205106: New connection from 192.168.0.32:50639 on port 1883.
+1697205106: Client Atom already connected, closing old connection.
+1697205106: New client connected from 192.168.0.32:50639 as Atom (p2, c1, k30).
+1697205112: New connection from 192.168.0.32:50640 on port 1883.
+1697205112: Client Atom already connected, closing old connection.
+1697205112: New client connected from 192.168.0.32:50640 as Atom (p2, c1, k30).
+1697205118: New connection from 192.168.0.32:50641 on port 1883.
+1697205118: Client Atom already connected, closing old connection.
+1697205118: New client connected from 192.168.0.32:50641 as Atom (p2, c1, k30).
+1697205124: New connection from 192.168.0.32:50642 on port 1883.
+1697205124: Client Atom already connected, closing old connection.
+1697205124: New client connected from 192.168.0.32:50642 as Atom (p2, c1, k30).
+1697205130: New connection from 192.168.0.32:50643 on port 1883.
+1697205130: Client Atom already connected, closing old connection.
+1697205130: New client connected from 192.168.0.32:50643 as Atom (p2, c1, k30).
+1697205136: New connection from 192.168.0.32:50644 on port 1883.
+1697205136: Client Atom already connected, closing old connection.
+1697205136: New client connected from 192.168.0.32:50644 as Atom (p2, c1, k30).
+1697205139: mosquitto version 2.0.18 terminating
+1697205139: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697205234: mosquitto version 2.0.18 starting
+1697205234: Config loaded from /mosquitto/config/mosquitto.conf.
+1697205234: Opening ipv4 listen socket on port 1883.
+1697205234: Opening ipv6 listen socket on port 1883.
+1697205234: mosquitto version 2.0.18 running
+1697205244: New connection from 192.168.0.32:58374 on port 1883.
+1697205244: New client connected from 192.168.0.32:58374 as Atom (p2, c1, k30).
+1697205248: New connection from 10.89.0.1:45772 on port 1883.
+1697205248: New client connected from 10.89.0.1:45772 as Telegraf-Consumer-q0vPH (p2, c1, k60).
+1697205249: New connection from 192.168.0.32:58375 on port 1883.
+1697205249: Client Atom already connected, closing old connection.
+1697205249: New client connected from 192.168.0.32:58375 as Atom (p2, c1, k30).
+1697205255: New connection from 192.168.0.32:58376 on port 1883.
+1697205255: Client Atom already connected, closing old connection.
+1697205255: New client connected from 192.168.0.32:58376 as Atom (p2, c1, k30).
+1697205261: New connection from 192.168.0.32:58377 on port 1883.
+1697205261: Client Atom closed its connection.
+1697205261: New client connected from 192.168.0.32:58377 as Atom (p2, c1, k30).
+1697205267: New connection from 192.168.0.32:58378 on port 1883.
+1697205267: Client Atom already connected, closing old connection.
+1697205267: New client connected from 192.168.0.32:58378 as Atom (p2, c1, k30).
+1697205273: New connection from 192.168.0.32:58379 on port 1883.
+1697205273: Client Atom already connected, closing old connection.
+1697205273: New client connected from 192.168.0.32:58379 as Atom (p2, c1, k30).
+1697205279: New connection from 192.168.0.32:58380 on port 1883.
+1697205279: Client Atom already connected, closing old connection.
+1697205279: New client connected from 192.168.0.32:58380 as Atom (p2, c1, k30).
+1697205285: New connection from 192.168.0.32:58381 on port 1883.
+1697205285: Client Atom already connected, closing old connection.
+1697205285: New client connected from 192.168.0.32:58381 as Atom (p2, c1, k30).
+1697205291: New connection from 192.168.0.32:58382 on port 1883.
+1697205291: Client Atom already connected, closing old connection.
+1697205291: New client connected from 192.168.0.32:58382 as Atom (p2, c1, k30).
+1697205297: New connection from 192.168.0.32:58383 on port 1883.
+1697205297: Client Atom already connected, closing old connection.
+1697205297: New client connected from 192.168.0.32:58383 as Atom (p2, c1, k30).
+1697205303: New connection from 192.168.0.32:58384 on port 1883.
+1697205303: Client Atom already connected, closing old connection.
+1697205303: New client connected from 192.168.0.32:58384 as Atom (p2, c1, k30).
+1697205309: New connection from 192.168.0.32:58385 on port 1883.
+1697205309: Client Atom already connected, closing old connection.
+1697205309: New client connected from 192.168.0.32:58385 as Atom (p2, c1, k30).
+1697205315: New connection from 192.168.0.32:58386 on port 1883.
+1697205315: Client Atom already connected, closing old connection.
+1697205315: New client connected from 192.168.0.32:58386 as Atom (p2, c1, k30).
+1697205321: New connection from 192.168.0.32:58387 on port 1883.
+1697205321: Client Atom already connected, closing old connection.
+1697205321: New client connected from 192.168.0.32:58387 as Atom (p2, c1, k30).
+1697205327: New connection from 192.168.0.32:58388 on port 1883.
+1697205327: Client Atom already connected, closing old connection.
+1697205327: New client connected from 192.168.0.32:58388 as Atom (p2, c1, k30).
+1697205333: New connection from 192.168.0.32:58389 on port 1883.
+1697205333: Client Atom already connected, closing old connection.
+1697205333: New client connected from 192.168.0.32:58389 as Atom (p2, c1, k30).
+1697205339: New connection from 192.168.0.32:58390 on port 1883.
+1697205339: Client Atom already connected, closing old connection.
+1697205339: New client connected from 192.168.0.32:58390 as Atom (p2, c1, k30).
+1697205345: New connection from 192.168.0.32:58391 on port 1883.
+1697205345: Client Atom already connected, closing old connection.
+1697205345: New client connected from 192.168.0.32:58391 as Atom (p2, c1, k30).
+1697205351: New connection from 192.168.0.32:58392 on port 1883.
+1697205351: Client Atom already connected, closing old connection.
+1697205351: New client connected from 192.168.0.32:58392 as Atom (p2, c1, k30).
+1697205357: New connection from 192.168.0.32:58393 on port 1883.
+1697205357: Client Atom already connected, closing old connection.
+1697205357: New client connected from 192.168.0.32:58393 as Atom (p2, c1, k30).
+1697205363: New connection from 192.168.0.32:58394 on port 1883.
+1697205363: Client Atom already connected, closing old connection.
+1697205363: New client connected from 192.168.0.32:58394 as Atom (p2, c1, k30).
+1697205369: New connection from 192.168.0.32:58395 on port 1883.
+1697205369: Client Atom already connected, closing old connection.
+1697205369: New client connected from 192.168.0.32:58395 as Atom (p2, c1, k30).
+1697205375: New connection from 192.168.0.32:58396 on port 1883.
+1697205375: Client Atom already connected, closing old connection.
+1697205375: New client connected from 192.168.0.32:58396 as Atom (p2, c1, k30).
+1697205381: New connection from 192.168.0.32:58397 on port 1883.
+1697205381: Client Atom already connected, closing old connection.
+1697205381: New client connected from 192.168.0.32:58397 as Atom (p2, c1, k30).
+1697205387: New connection from 192.168.0.32:58398 on port 1883.
+1697205387: Client Atom already connected, closing old connection.
+1697205387: New client connected from 192.168.0.32:58398 as Atom (p2, c1, k30).
+1697205393: New connection from 192.168.0.32:58399 on port 1883.
+1697205393: Client Atom already connected, closing old connection.
+1697205393: New client connected from 192.168.0.32:58399 as Atom (p2, c1, k30).
+1697205399: New connection from 192.168.0.32:58400 on port 1883.
+1697205399: Client Atom already connected, closing old connection.
+1697205399: New client connected from 192.168.0.32:58400 as Atom (p2, c1, k30).
+1697205405: New connection from 192.168.0.32:58401 on port 1883.
+1697205405: Client Atom already connected, closing old connection.
+1697205405: New client connected from 192.168.0.32:58401 as Atom (p2, c1, k30).
+1697205411: New connection from 192.168.0.32:58402 on port 1883.
+1697205411: Client Atom closed its connection.
+1697205411: New client connected from 192.168.0.32:58402 as Atom (p2, c1, k30).
+1697205417: New connection from 192.168.0.32:58403 on port 1883.
+1697205417: Client Atom already connected, closing old connection.
+1697205417: New client connected from 192.168.0.32:58403 as Atom (p2, c1, k30).
+1697205423: New connection from 192.168.0.32:58404 on port 1883.
+1697205423: Client Atom already connected, closing old connection.
+1697205423: New client connected from 192.168.0.32:58404 as Atom (p2, c1, k30).
+1697205429: New connection from 192.168.0.32:58405 on port 1883.
+1697205429: Client Atom already connected, closing old connection.
+1697205429: New client connected from 192.168.0.32:58405 as Atom (p2, c1, k30).
+1697205435: New connection from 192.168.0.32:58406 on port 1883.
+1697205435: Client Atom already connected, closing old connection.
+1697205435: New client connected from 192.168.0.32:58406 as Atom (p2, c1, k30).
+1697205442: New connection from 192.168.0.32:58407 on port 1883.
+1697205442: Client Atom already connected, closing old connection.
+1697205442: New client connected from 192.168.0.32:58407 as Atom (p2, c1, k30).
+1697205447: New connection from 192.168.0.32:58408 on port 1883.
+1697205447: Client Atom already connected, closing old connection.
+1697205447: New client connected from 192.168.0.32:58408 as Atom (p2, c1, k30).
+1697205453: New connection from 192.168.0.32:58409 on port 1883.
+1697205453: Client Atom already connected, closing old connection.
+1697205453: New client connected from 192.168.0.32:58409 as Atom (p2, c1, k30).
+1697205459: New connection from 192.168.0.32:58410 on port 1883.
+1697205459: Client Atom already connected, closing old connection.
+1697205459: New client connected from 192.168.0.32:58410 as Atom (p2, c1, k30).
+1697205465: New connection from 192.168.0.32:58411 on port 1883.
+1697205465: Client Atom already connected, closing old connection.
+1697205465: New client connected from 192.168.0.32:58411 as Atom (p2, c1, k30).
+1697205471: New connection from 192.168.0.32:58412 on port 1883.
+1697205471: Client Atom already connected, closing old connection.
+1697205471: New client connected from 192.168.0.32:58412 as Atom (p2, c1, k30).
+1697205477: New connection from 192.168.0.32:58413 on port 1883.
+1697205477: Client Atom already connected, closing old connection.
+1697205477: New client connected from 192.168.0.32:58413 as Atom (p2, c1, k30).
+1697205483: New connection from 192.168.0.32:58414 on port 1883.
+1697205483: Client Atom already connected, closing old connection.
+1697205483: New client connected from 192.168.0.32:58414 as Atom (p2, c1, k30).
+1697205489: New connection from 192.168.0.32:58415 on port 1883.
+1697205489: Client Atom already connected, closing old connection.
+1697205489: New client connected from 192.168.0.32:58415 as Atom (p2, c1, k30).
+1697205495: New connection from 192.168.0.32:58416 on port 1883.
+1697205495: Client Atom already connected, closing old connection.
+1697205495: New client connected from 192.168.0.32:58416 as Atom (p2, c1, k30).
+1697205501: New connection from 192.168.0.32:58417 on port 1883.
+1697205501: Client Atom already connected, closing old connection.
+1697205501: New client connected from 192.168.0.32:58417 as Atom (p2, c1, k30).
+1697205507: New connection from 192.168.0.32:58418 on port 1883.
+1697205507: Client Atom already connected, closing old connection.
+1697205507: New client connected from 192.168.0.32:58418 as Atom (p2, c1, k30).
+1697205513: New connection from 192.168.0.32:58419 on port 1883.
+1697205513: Client Atom already connected, closing old connection.
+1697205513: New client connected from 192.168.0.32:58419 as Atom (p2, c1, k30).
+1697205519: New connection from 192.168.0.32:58420 on port 1883.
+1697205519: Client Atom already connected, closing old connection.
+1697205519: New client connected from 192.168.0.32:58420 as Atom (p2, c1, k30).
+1697205525: New connection from 192.168.0.32:58421 on port 1883.
+1697205525: Client Atom already connected, closing old connection.
+1697205525: New client connected from 192.168.0.32:58421 as Atom (p2, c1, k30).
+1697205531: New connection from 192.168.0.32:58422 on port 1883.
+1697205531: Client Atom already connected, closing old connection.
+1697205531: New client connected from 192.168.0.32:58422 as Atom (p2, c1, k30).
+1697205537: Client Atom closed its connection.
+1697205537: New connection from 192.168.0.32:58423 on port 1883.
+1697205537: New client connected from 192.168.0.32:58423 as Atom (p2, c1, k30).
+1697205543: New connection from 192.168.0.32:58424 on port 1883.
+1697205543: Client Atom already connected, closing old connection.
+1697205543: New client connected from 192.168.0.32:58424 as Atom (p2, c1, k30).
+1697205549: New connection from 192.168.0.32:58425 on port 1883.
+1697205549: Client Atom already connected, closing old connection.
+1697205549: New client connected from 192.168.0.32:58425 as Atom (p2, c1, k30).
+1697205555: New connection from 192.168.0.32:58426 on port 1883.
+1697205555: Client Atom already connected, closing old connection.
+1697205555: New client connected from 192.168.0.32:58426 as Atom (p2, c1, k30).
+1697205561: New connection from 192.168.0.32:58427 on port 1883.
+1697205561: Client Atom already connected, closing old connection.
+1697205561: New client connected from 192.168.0.32:58427 as Atom (p2, c1, k30).
+1697205567: New connection from 192.168.0.32:58428 on port 1883.
+1697205567: Client Atom already connected, closing old connection.
+1697205567: New client connected from 192.168.0.32:58428 as Atom (p2, c1, k30).
+1697205573: New connection from 192.168.0.32:58429 on port 1883.
+1697205573: Client Atom already connected, closing old connection.
+1697205573: New client connected from 192.168.0.32:58429 as Atom (p2, c1, k30).
+1697205579: New connection from 192.168.0.32:58430 on port 1883.
+1697205579: Client Atom already connected, closing old connection.
+1697205579: New client connected from 192.168.0.32:58430 as Atom (p2, c1, k30).
+1697205585: New connection from 192.168.0.32:58431 on port 1883.
+1697205585: Client Atom already connected, closing old connection.
+1697205585: New client connected from 192.168.0.32:58431 as Atom (p2, c1, k30).
+1697205591: New connection from 192.168.0.32:58432 on port 1883.
+1697205591: Client Atom already connected, closing old connection.
+1697205591: New client connected from 192.168.0.32:58432 as Atom (p2, c1, k30).
+1697205597: New connection from 192.168.0.32:58433 on port 1883.
+1697205597: Client Atom already connected, closing old connection.
+1697205597: New client connected from 192.168.0.32:58433 as Atom (p2, c1, k30).
+1697205603: New connection from 192.168.0.32:58434 on port 1883.
+1697205603: Client Atom already connected, closing old connection.
+1697205603: New client connected from 192.168.0.32:58434 as Atom (p2, c1, k30).
+1697205609: New connection from 192.168.0.32:58435 on port 1883.
+1697205609: Client Atom already connected, closing old connection.
+1697205609: New client connected from 192.168.0.32:58435 as Atom (p2, c1, k30).
+1697205615: New connection from 192.168.0.32:58436 on port 1883.
+1697205615: Client Atom already connected, closing old connection.
+1697205615: New client connected from 192.168.0.32:58436 as Atom (p2, c1, k30).
+1697205621: New connection from 192.168.0.32:58437 on port 1883.
+1697205621: Client Atom already connected, closing old connection.
+1697205621: New client connected from 192.168.0.32:58437 as Atom (p2, c1, k30).
+1697205627: New connection from 192.168.0.32:58438 on port 1883.
+1697205627: Client Atom already connected, closing old connection.
+1697205627: New client connected from 192.168.0.32:58438 as Atom (p2, c1, k30).
+1697205633: New connection from 192.168.0.32:58439 on port 1883.
+1697205633: Client Atom already connected, closing old connection.
+1697205633: New client connected from 192.168.0.32:58439 as Atom (p2, c1, k30).
+1697205639: New connection from 192.168.0.32:58440 on port 1883.
+1697205639: Client Atom already connected, closing old connection.
+1697205639: New client connected from 192.168.0.32:58440 as Atom (p2, c1, k30).
+1697205645: New connection from 192.168.0.32:58441 on port 1883.
+1697205645: Client Atom already connected, closing old connection.
+1697205645: New client connected from 192.168.0.32:58441 as Atom (p2, c1, k30).
+1697205651: New connection from 192.168.0.32:58442 on port 1883.
+1697205651: Client Atom already connected, closing old connection.
+1697205651: New client connected from 192.168.0.32:58442 as Atom (p2, c1, k30).
+1697205657: New connection from 192.168.0.32:58443 on port 1883.
+1697205657: Client Atom already connected, closing old connection.
+1697205657: New client connected from 192.168.0.32:58443 as Atom (p2, c1, k30).
+1697205663: New connection from 192.168.0.32:58444 on port 1883.
+1697205663: Client Atom closed its connection.
+1697205663: New client connected from 192.168.0.32:58444 as Atom (p2, c1, k30).
+1697205669: New connection from 192.168.0.32:58445 on port 1883.
+1697205669: Client Atom already connected, closing old connection.
+1697205669: New client connected from 192.168.0.32:58445 as Atom (p2, c1, k30).
+1697205675: New connection from 192.168.0.32:58446 on port 1883.
+1697205675: Client Atom already connected, closing old connection.
+1697205675: New client connected from 192.168.0.32:58446 as Atom (p2, c1, k30).
+1697205681: New connection from 192.168.0.32:58447 on port 1883.
+1697205681: Client Atom already connected, closing old connection.
+1697205681: New client connected from 192.168.0.32:58447 as Atom (p2, c1, k30).
+1697205687: New connection from 192.168.0.32:58448 on port 1883.
+1697205687: Client Atom already connected, closing old connection.
+1697205687: New client connected from 192.168.0.32:58448 as Atom (p2, c1, k30).
+1697205693: New connection from 192.168.0.32:58449 on port 1883.
+1697205693: Client Atom already connected, closing old connection.
+1697205693: New client connected from 192.168.0.32:58449 as Atom (p2, c1, k30).
+1697205699: New connection from 192.168.0.32:58450 on port 1883.
+1697205699: Client Atom already connected, closing old connection.
+1697205699: New client connected from 192.168.0.32:58450 as Atom (p2, c1, k30).
+1697205705: New connection from 192.168.0.32:58451 on port 1883.
+1697205705: Client Atom already connected, closing old connection.
+1697205705: New client connected from 192.168.0.32:58451 as Atom (p2, c1, k30).
+1697205711: New connection from 192.168.0.32:58452 on port 1883.
+1697205711: Client Atom already connected, closing old connection.
+1697205711: New client connected from 192.168.0.32:58452 as Atom (p2, c1, k30).
+1697205717: New connection from 192.168.0.32:58453 on port 1883.
+1697205717: Client Atom already connected, closing old connection.
+1697205717: New client connected from 192.168.0.32:58453 as Atom (p2, c1, k30).
+1697205723: New connection from 192.168.0.32:58454 on port 1883.
+1697205723: Client Atom already connected, closing old connection.
+1697205723: New client connected from 192.168.0.32:58454 as Atom (p2, c1, k30).
+1697205729: New connection from 192.168.0.32:58455 on port 1883.
+1697205729: Client Atom already connected, closing old connection.
+1697205729: New client connected from 192.168.0.32:58455 as Atom (p2, c1, k30).
+1697205735: New connection from 192.168.0.32:58456 on port 1883.
+1697205735: Client Atom already connected, closing old connection.
+1697205735: New client connected from 192.168.0.32:58456 as Atom (p2, c1, k30).
+1697205741: New connection from 192.168.0.32:58457 on port 1883.
+1697205741: Client Atom already connected, closing old connection.
+1697205741: New client connected from 192.168.0.32:58457 as Atom (p2, c1, k30).
+1697205747: New connection from 192.168.0.32:58458 on port 1883.
+1697205747: Client Atom already connected, closing old connection.
+1697205747: New client connected from 192.168.0.32:58458 as Atom (p2, c1, k30).
+1697205753: New connection from 192.168.0.32:58459 on port 1883.
+1697205753: Client Atom already connected, closing old connection.
+1697205753: New client connected from 192.168.0.32:58459 as Atom (p2, c1, k30).
+1697205759: New connection from 192.168.0.32:58460 on port 1883.
+1697205759: Client Atom already connected, closing old connection.
+1697205759: New client connected from 192.168.0.32:58460 as Atom (p2, c1, k30).
+1697205765: New connection from 192.168.0.32:58461 on port 1883.
+1697205765: Client Atom already connected, closing old connection.
+1697205765: New client connected from 192.168.0.32:58461 as Atom (p2, c1, k30).
+1697205771: New connection from 192.168.0.32:58462 on port 1883.
+1697205771: Client Atom already connected, closing old connection.
+1697205771: New client connected from 192.168.0.32:58462 as Atom (p2, c1, k30).
+1697205777: New connection from 192.168.0.32:58463 on port 1883.
+1697205777: Client Atom already connected, closing old connection.
+1697205777: New client connected from 192.168.0.32:58463 as Atom (p2, c1, k30).
+1697205783: New connection from 192.168.0.32:58464 on port 1883.
+1697205783: Client Atom already connected, closing old connection.
+1697205783: New client connected from 192.168.0.32:58464 as Atom (p2, c1, k30).
+1697205789: New connection from 192.168.0.32:58465 on port 1883.
+1697205789: Client Atom closed its connection.
+1697205789: New client connected from 192.168.0.32:58465 as Atom (p2, c1, k30).
+1697205795: New connection from 192.168.0.32:58466 on port 1883.
+1697205795: Client Atom already connected, closing old connection.
+1697205795: New client connected from 192.168.0.32:58466 as Atom (p2, c1, k30).
+1697205801: New connection from 192.168.0.32:58467 on port 1883.
+1697205801: Client Atom already connected, closing old connection.
+1697205801: New client connected from 192.168.0.32:58467 as Atom (p2, c1, k30).
+1697205807: New connection from 192.168.0.32:58468 on port 1883.
+1697205807: Client Atom already connected, closing old connection.
+1697205807: New client connected from 192.168.0.32:58468 as Atom (p2, c1, k30).
+1697205813: New connection from 192.168.0.32:58469 on port 1883.
+1697205813: Client Atom already connected, closing old connection.
+1697205813: New client connected from 192.168.0.32:58469 as Atom (p2, c1, k30).
+1697205819: New connection from 192.168.0.32:58470 on port 1883.
+1697205819: Client Atom already connected, closing old connection.
+1697205819: New client connected from 192.168.0.32:58470 as Atom (p2, c1, k30).
+1697205825: New connection from 192.168.0.32:58471 on port 1883.
+1697205825: Client Atom already connected, closing old connection.
+1697205825: New client connected from 192.168.0.32:58471 as Atom (p2, c1, k30).
+1697205831: New connection from 192.168.0.32:58472 on port 1883.
+1697205831: Client Atom already connected, closing old connection.
+1697205831: New client connected from 192.168.0.32:58472 as Atom (p2, c1, k30).
+1697205837: New connection from 192.168.0.32:58473 on port 1883.
+1697205837: Client Atom already connected, closing old connection.
+1697205837: New client connected from 192.168.0.32:58473 as Atom (p2, c1, k30).
+1697205843: New connection from 192.168.0.32:58474 on port 1883.
+1697205843: Client Atom already connected, closing old connection.
+1697205843: New client connected from 192.168.0.32:58474 as Atom (p2, c1, k30).
+1697205849: New connection from 192.168.0.32:58475 on port 1883.
+1697205849: Client Atom already connected, closing old connection.
+1697205849: New client connected from 192.168.0.32:58475 as Atom (p2, c1, k30).
+1697205855: New connection from 192.168.0.32:58476 on port 1883.
+1697205855: Client Atom already connected, closing old connection.
+1697205855: New client connected from 192.168.0.32:58476 as Atom (p2, c1, k30).
+1697205861: New connection from 192.168.0.32:58477 on port 1883.
+1697205861: Client Atom already connected, closing old connection.
+1697205861: New client connected from 192.168.0.32:58477 as Atom (p2, c1, k30).
+1697205867: New connection from 192.168.0.32:58478 on port 1883.
+1697205867: Client Atom already connected, closing old connection.
+1697205867: New client connected from 192.168.0.32:58478 as Atom (p2, c1, k30).
+1697205873: New connection from 192.168.0.32:58479 on port 1883.
+1697205873: Client Atom already connected, closing old connection.
+1697205873: New client connected from 192.168.0.32:58479 as Atom (p2, c1, k30).
+1697205879: New connection from 192.168.0.32:58480 on port 1883.
+1697205879: Client Atom already connected, closing old connection.
+1697205879: New client connected from 192.168.0.32:58480 as Atom (p2, c1, k30).
+1697205885: New connection from 192.168.0.32:58481 on port 1883.
+1697205885: Client Atom already connected, closing old connection.
+1697205885: New client connected from 192.168.0.32:58481 as Atom (p2, c1, k30).
+1697205891: New connection from 192.168.0.32:58482 on port 1883.
+1697205891: Client Atom already connected, closing old connection.
+1697205891: New client connected from 192.168.0.32:58482 as Atom (p2, c1, k30).
+1697205897: New connection from 192.168.0.32:58483 on port 1883.
+1697205897: Client Atom already connected, closing old connection.
+1697205897: New client connected from 192.168.0.32:58483 as Atom (p2, c1, k30).
+1697205903: New connection from 192.168.0.32:58484 on port 1883.
+1697205903: Client Atom already connected, closing old connection.
+1697205903: New client connected from 192.168.0.32:58484 as Atom (p2, c1, k30).
+1697205909: New connection from 192.168.0.32:58485 on port 1883.
+1697205909: Client Atom already connected, closing old connection.
+1697205909: New client connected from 192.168.0.32:58485 as Atom (p2, c1, k30).
+1697205915: New connection from 192.168.0.32:58486 on port 1883.
+1697205915: Client Atom closed its connection.
+1697205915: New client connected from 192.168.0.32:58486 as Atom (p2, c1, k30).
+1697205921: New connection from 192.168.0.32:58487 on port 1883.
+1697205921: Client Atom already connected, closing old connection.
+1697205921: New client connected from 192.168.0.32:58487 as Atom (p2, c1, k30).
+1697205927: New connection from 192.168.0.32:58488 on port 1883.
+1697205927: Client Atom already connected, closing old connection.
+1697205927: New client connected from 192.168.0.32:58488 as Atom (p2, c1, k30).
+1697205933: New connection from 192.168.0.32:58489 on port 1883.
+1697205933: Client Atom already connected, closing old connection.
+1697205933: New client connected from 192.168.0.32:58489 as Atom (p2, c1, k30).
+1697205939: New connection from 192.168.0.32:58490 on port 1883.
+1697205939: Client Atom already connected, closing old connection.
+1697205939: New client connected from 192.168.0.32:58490 as Atom (p2, c1, k30).
+1697205945: New connection from 192.168.0.32:58491 on port 1883.
+1697205945: Client Atom already connected, closing old connection.
+1697205945: New client connected from 192.168.0.32:58491 as Atom (p2, c1, k30).
+1697205951: New connection from 192.168.0.32:58492 on port 1883.
+1697205951: Client Atom already connected, closing old connection.
+1697205951: New client connected from 192.168.0.32:58492 as Atom (p2, c1, k30).
+1697205957: New connection from 192.168.0.32:58493 on port 1883.
+1697205957: Client Atom already connected, closing old connection.
+1697205957: New client connected from 192.168.0.32:58493 as Atom (p2, c1, k30).
+1697205963: New connection from 192.168.0.32:58494 on port 1883.
+1697205963: Client Atom already connected, closing old connection.
+1697205963: New client connected from 192.168.0.32:58494 as Atom (p2, c1, k30).
+1697205969: New connection from 192.168.0.32:58495 on port 1883.
+1697205969: Client Atom already connected, closing old connection.
+1697205969: New client connected from 192.168.0.32:58495 as Atom (p2, c1, k30).
+1697205975: New connection from 192.168.0.32:58496 on port 1883.
+1697205975: Client Atom already connected, closing old connection.
+1697205975: New client connected from 192.168.0.32:58496 as Atom (p2, c1, k30).
+1697205981: New connection from 192.168.0.32:58497 on port 1883.
+1697205981: Client Atom already connected, closing old connection.
+1697205981: New client connected from 192.168.0.32:58497 as Atom (p2, c1, k30).
+1697205987: New connection from 192.168.0.32:58498 on port 1883.
+1697205987: Client Atom already connected, closing old connection.
+1697205987: New client connected from 192.168.0.32:58498 as Atom (p2, c1, k30).
+1697205993: New connection from 192.168.0.32:58499 on port 1883.
+1697205993: Client Atom already connected, closing old connection.
+1697205993: New client connected from 192.168.0.32:58499 as Atom (p2, c1, k30).
+1697205999: New connection from 192.168.0.32:58500 on port 1883.
+1697205999: Client Atom already connected, closing old connection.
+1697205999: New client connected from 192.168.0.32:58500 as Atom (p2, c1, k30).
+1697206005: New connection from 192.168.0.32:58501 on port 1883.
+1697206005: Client Atom already connected, closing old connection.
+1697206005: New client connected from 192.168.0.32:58501 as Atom (p2, c1, k30).
+1697206011: New connection from 192.168.0.32:58502 on port 1883.
+1697206011: Client Atom already connected, closing old connection.
+1697206011: New client connected from 192.168.0.32:58502 as Atom (p2, c1, k30).
+1697206017: New connection from 192.168.0.32:58503 on port 1883.
+1697206017: Client Atom already connected, closing old connection.
+1697206017: New client connected from 192.168.0.32:58503 as Atom (p2, c1, k30).
+1697206023: New connection from 192.168.0.32:58504 on port 1883.
+1697206023: Client Atom already connected, closing old connection.
+1697206023: New client connected from 192.168.0.32:58504 as Atom (p2, c1, k30).
+1697206029: New connection from 192.168.0.32:58505 on port 1883.
+1697206029: Client Atom already connected, closing old connection.
+1697206029: New client connected from 192.168.0.32:58505 as Atom (p2, c1, k30).
+1697206035: New connection from 192.168.0.32:58506 on port 1883.
+1697206035: Client Atom already connected, closing old connection.
+1697206035: New client connected from 192.168.0.32:58506 as Atom (p2, c1, k30).
+1697206041: New connection from 192.168.0.32:58507 on port 1883.
+1697206041: Client Atom closed its connection.
+1697206041: New client connected from 192.168.0.32:58507 as Atom (p2, c1, k30).
+1697206047: New connection from 192.168.0.32:58508 on port 1883.
+1697206047: Client Atom already connected, closing old connection.
+1697206047: New client connected from 192.168.0.32:58508 as Atom (p2, c1, k30).
+1697206053: New connection from 192.168.0.32:58509 on port 1883.
+1697206053: Client Atom already connected, closing old connection.
+1697206053: New client connected from 192.168.0.32:58509 as Atom (p2, c1, k30).
+1697206059: New connection from 192.168.0.32:58510 on port 1883.
+1697206059: Client Atom already connected, closing old connection.
+1697206059: New client connected from 192.168.0.32:58510 as Atom (p2, c1, k30).
+1697206065: New connection from 192.168.0.32:58511 on port 1883.
+1697206065: Client Atom already connected, closing old connection.
+1697206065: New client connected from 192.168.0.32:58511 as Atom (p2, c1, k30).
+1697206071: New connection from 192.168.0.32:58512 on port 1883.
+1697206071: Client Atom already connected, closing old connection.
+1697206071: New client connected from 192.168.0.32:58512 as Atom (p2, c1, k30).
+1697206077: New connection from 192.168.0.32:58513 on port 1883.
+1697206077: Client Atom already connected, closing old connection.
+1697206077: New client connected from 192.168.0.32:58513 as Atom (p2, c1, k30).
+1697206083: New connection from 192.168.0.32:58514 on port 1883.
+1697206083: Client Atom already connected, closing old connection.
+1697206083: New client connected from 192.168.0.32:58514 as Atom (p2, c1, k30).
+1697206089: New connection from 192.168.0.32:58515 on port 1883.
+1697206089: Client Atom already connected, closing old connection.
+1697206089: New client connected from 192.168.0.32:58515 as Atom (p2, c1, k30).
+1697206095: New connection from 192.168.0.32:58516 on port 1883.
+1697206095: Client Atom already connected, closing old connection.
+1697206095: New client connected from 192.168.0.32:58516 as Atom (p2, c1, k30).
+1697206101: New connection from 192.168.0.32:58517 on port 1883.
+1697206101: Client Atom already connected, closing old connection.
+1697206101: New client connected from 192.168.0.32:58517 as Atom (p2, c1, k30).
+1697206107: New connection from 192.168.0.32:58518 on port 1883.
+1697206107: Client Atom already connected, closing old connection.
+1697206107: New client connected from 192.168.0.32:58518 as Atom (p2, c1, k30).
+1697206113: New connection from 192.168.0.32:58519 on port 1883.
+1697206113: Client Atom already connected, closing old connection.
+1697206113: New client connected from 192.168.0.32:58519 as Atom (p2, c1, k30).
+1697206119: New connection from 192.168.0.32:58520 on port 1883.
+1697206119: Client Atom already connected, closing old connection.
+1697206119: New client connected from 192.168.0.32:58520 as Atom (p2, c1, k30).
+1697206125: New connection from 192.168.0.32:58521 on port 1883.
+1697206125: Client Atom already connected, closing old connection.
+1697206125: New client connected from 192.168.0.32:58521 as Atom (p2, c1, k30).
+1697206131: New connection from 192.168.0.32:58522 on port 1883.
+1697206131: Client Atom already connected, closing old connection.
+1697206131: New client connected from 192.168.0.32:58522 as Atom (p2, c1, k30).
+1697206137: New connection from 192.168.0.32:58523 on port 1883.
+1697206137: Client Atom already connected, closing old connection.
+1697206137: New client connected from 192.168.0.32:58523 as Atom (p2, c1, k30).
+1697206143: New connection from 192.168.0.32:58524 on port 1883.
+1697206143: Client Atom already connected, closing old connection.
+1697206143: New client connected from 192.168.0.32:58524 as Atom (p2, c1, k30).
+1697206149: New connection from 192.168.0.32:58525 on port 1883.
+1697206149: Client Atom already connected, closing old connection.
+1697206149: New client connected from 192.168.0.32:58525 as Atom (p2, c1, k30).
+1697206155: New connection from 192.168.0.32:58526 on port 1883.
+1697206155: Client Atom already connected, closing old connection.
+1697206155: New client connected from 192.168.0.32:58526 as Atom (p2, c1, k30).
+1697206161: New connection from 192.168.0.32:58527 on port 1883.
+1697206161: Client Atom already connected, closing old connection.
+1697206161: New client connected from 192.168.0.32:58527 as Atom (p2, c1, k30).
+1697206167: New connection from 192.168.0.32:58528 on port 1883.
+1697206167: Client Atom closed its connection.
+1697206167: New client connected from 192.168.0.32:58528 as Atom (p2, c1, k30).
+1697206173: New connection from 192.168.0.32:58529 on port 1883.
+1697206173: Client Atom already connected, closing old connection.
+1697206173: New client connected from 192.168.0.32:58529 as Atom (p2, c1, k30).
+1697206179: New connection from 192.168.0.32:58530 on port 1883.
+1697206179: Client Atom already connected, closing old connection.
+1697206179: New client connected from 192.168.0.32:58530 as Atom (p2, c1, k30).
+1697206185: New connection from 192.168.0.32:58531 on port 1883.
+1697206185: Client Atom already connected, closing old connection.
+1697206185: New client connected from 192.168.0.32:58531 as Atom (p2, c1, k30).
+1697206191: New connection from 192.168.0.32:58532 on port 1883.
+1697206191: Client Atom already connected, closing old connection.
+1697206191: New client connected from 192.168.0.32:58532 as Atom (p2, c1, k30).
+1697206197: New connection from 192.168.0.32:58533 on port 1883.
+1697206197: Client Atom already connected, closing old connection.
+1697206197: New client connected from 192.168.0.32:58533 as Atom (p2, c1, k30).
+1697206203: New connection from 192.168.0.32:58534 on port 1883.
+1697206203: Client Atom already connected, closing old connection.
+1697206203: New client connected from 192.168.0.32:58534 as Atom (p2, c1, k30).
+1697206209: New connection from 192.168.0.32:58535 on port 1883.
+1697206209: Client Atom already connected, closing old connection.
+1697206209: New client connected from 192.168.0.32:58535 as Atom (p2, c1, k30).
+1697206215: New connection from 192.168.0.32:58536 on port 1883.
+1697206215: Client Atom already connected, closing old connection.
+1697206215: New client connected from 192.168.0.32:58536 as Atom (p2, c1, k30).
+1697206221: New connection from 192.168.0.32:58537 on port 1883.
+1697206221: Client Atom already connected, closing old connection.
+1697206221: New client connected from 192.168.0.32:58537 as Atom (p2, c1, k30).
+1697206227: New connection from 192.168.0.32:58538 on port 1883.
+1697206227: Client Atom already connected, closing old connection.
+1697206227: New client connected from 192.168.0.32:58538 as Atom (p2, c1, k30).
+1697206233: New connection from 192.168.0.32:58539 on port 1883.
+1697206233: Client Atom already connected, closing old connection.
+1697206233: New client connected from 192.168.0.32:58539 as Atom (p2, c1, k30).
+1697206239: New connection from 192.168.0.32:58540 on port 1883.
+1697206239: Client Atom already connected, closing old connection.
+1697206239: New client connected from 192.168.0.32:58540 as Atom (p2, c1, k30).
+1697206245: New connection from 192.168.0.32:58541 on port 1883.
+1697206245: Client Atom already connected, closing old connection.
+1697206245: New client connected from 192.168.0.32:58541 as Atom (p2, c1, k30).
+1697206251: New connection from 192.168.0.32:58542 on port 1883.
+1697206251: Client Atom already connected, closing old connection.
+1697206251: New client connected from 192.168.0.32:58542 as Atom (p2, c1, k30).
+1697206257: New connection from 192.168.0.32:58543 on port 1883.
+1697206257: Client Atom already connected, closing old connection.
+1697206257: New client connected from 192.168.0.32:58543 as Atom (p2, c1, k30).
+1697206263: New connection from 192.168.0.32:58544 on port 1883.
+1697206263: Client Atom already connected, closing old connection.
+1697206263: New client connected from 192.168.0.32:58544 as Atom (p2, c1, k30).
+1697206269: New connection from 192.168.0.32:58545 on port 1883.
+1697206269: Client Atom already connected, closing old connection.
+1697206269: New client connected from 192.168.0.32:58545 as Atom (p2, c1, k30).
+1697206275: New connection from 192.168.0.32:58546 on port 1883.
+1697206275: Client Atom already connected, closing old connection.
+1697206275: New client connected from 192.168.0.32:58546 as Atom (p2, c1, k30).
+1697206281: New connection from 192.168.0.32:58547 on port 1883.
+1697206281: Client Atom already connected, closing old connection.
+1697206281: New client connected from 192.168.0.32:58547 as Atom (p2, c1, k30).
+1697206287: New connection from 192.168.0.32:58548 on port 1883.
+1697206287: Client Atom already connected, closing old connection.
+1697206287: New client connected from 192.168.0.32:58548 as Atom (p2, c1, k30).
+1697206293: New connection from 192.168.0.32:58549 on port 1883.
+1697206293: Client Atom already connected, closing old connection.
+1697206293: New client connected from 192.168.0.32:58549 as Atom (p2, c1, k30).
+1697206299: New connection from 192.168.0.32:58550 on port 1883.
+1697206299: Client Atom already connected, closing old connection.
+1697206299: New client connected from 192.168.0.32:58550 as Atom (p2, c1, k30).
+1697206305: New connection from 192.168.0.32:58551 on port 1883.
+1697206305: Client Atom already connected, closing old connection.
+1697206305: New client connected from 192.168.0.32:58551 as Atom (p2, c1, k30).
+1697206311: New connection from 192.168.0.32:58552 on port 1883.
+1697206311: Client Atom already connected, closing old connection.
+1697206311: New client connected from 192.168.0.32:58552 as Atom (p2, c1, k30).
+1697206317: New connection from 192.168.0.32:58553 on port 1883.
+1697206317: Client Atom already connected, closing old connection.
+1697206317: New client connected from 192.168.0.32:58553 as Atom (p2, c1, k30).
+1697206323: New connection from 192.168.0.32:58554 on port 1883.
+1697206323: Client Atom already connected, closing old connection.
+1697206323: New client connected from 192.168.0.32:58554 as Atom (p2, c1, k30).
+1697206329: New connection from 192.168.0.32:58555 on port 1883.
+1697206329: Client Atom already connected, closing old connection.
+1697206329: New client connected from 192.168.0.32:58555 as Atom (p2, c1, k30).
+1697206335: New connection from 192.168.0.32:58556 on port 1883.
+1697206335: Client Atom already connected, closing old connection.
+1697206335: New client connected from 192.168.0.32:58556 as Atom (p2, c1, k30).
+1697206341: New connection from 192.168.0.32:58557 on port 1883.
+1697206341: Client Atom already connected, closing old connection.
+1697206341: New client connected from 192.168.0.32:58557 as Atom (p2, c1, k30).
+1697206347: New connection from 192.168.0.32:58558 on port 1883.
+1697206347: Client Atom already connected, closing old connection.
+1697206347: New client connected from 192.168.0.32:58558 as Atom (p2, c1, k30).
+1697206353: New connection from 192.168.0.32:58559 on port 1883.
+1697206353: Client Atom already connected, closing old connection.
+1697206353: New client connected from 192.168.0.32:58559 as Atom (p2, c1, k30).
+1697206359: New connection from 192.168.0.32:58560 on port 1883.
+1697206359: Client Atom already connected, closing old connection.
+1697206359: New client connected from 192.168.0.32:58560 as Atom (p2, c1, k30).
+1697206365: New connection from 192.168.0.32:58561 on port 1883.
+1697206365: Client Atom already connected, closing old connection.
+1697206365: New client connected from 192.168.0.32:58561 as Atom (p2, c1, k30).
+1697206371: New connection from 192.168.0.32:58562 on port 1883.
+1697206371: Client Atom already connected, closing old connection.
+1697206371: New client connected from 192.168.0.32:58562 as Atom (p2, c1, k30).
+1697206377: New connection from 192.168.0.32:58563 on port 1883.
+1697206377: Client Atom already connected, closing old connection.
+1697206377: New client connected from 192.168.0.32:58563 as Atom (p2, c1, k30).
+1697206383: New connection from 192.168.0.32:58564 on port 1883.
+1697206383: Client Atom already connected, closing old connection.
+1697206383: New client connected from 192.168.0.32:58564 as Atom (p2, c1, k30).
+1697206389: New connection from 192.168.0.32:58565 on port 1883.
+1697206389: Client Atom already connected, closing old connection.
+1697206389: New client connected from 192.168.0.32:58565 as Atom (p2, c1, k30).
+1697206395: New connection from 192.168.0.32:58566 on port 1883.
+1697206395: Client Atom closed its connection.
+1697206395: New client connected from 192.168.0.32:58566 as Atom (p2, c1, k30).
+1697206401: New connection from 192.168.0.32:58567 on port 1883.
+1697206401: Client Atom already connected, closing old connection.
+1697206401: New client connected from 192.168.0.32:58567 as Atom (p2, c1, k30).
+1697206407: New connection from 192.168.0.32:58568 on port 1883.
+1697206407: Client Atom already connected, closing old connection.
+1697206407: New client connected from 192.168.0.32:58568 as Atom (p2, c1, k30).
+1697206413: New connection from 192.168.0.32:58569 on port 1883.
+1697206413: Client Atom already connected, closing old connection.
+1697206413: New client connected from 192.168.0.32:58569 as Atom (p2, c1, k30).
+1697206419: New connection from 192.168.0.32:58570 on port 1883.
+1697206419: Client Atom already connected, closing old connection.
+1697206419: New client connected from 192.168.0.32:58570 as Atom (p2, c1, k30).
+1697206425: New connection from 192.168.0.32:58571 on port 1883.
+1697206425: Client Atom already connected, closing old connection.
+1697206425: New client connected from 192.168.0.32:58571 as Atom (p2, c1, k30).
+1697206431: New connection from 192.168.0.32:58572 on port 1883.
+1697206431: Client Atom already connected, closing old connection.
+1697206431: New client connected from 192.168.0.32:58572 as Atom (p2, c1, k30).
+1697206437: New connection from 192.168.0.32:58573 on port 1883.
+1697206437: Client Atom already connected, closing old connection.
+1697206437: New client connected from 192.168.0.32:58573 as Atom (p2, c1, k30).
+1697206443: New connection from 192.168.0.32:58574 on port 1883.
+1697206443: Client Atom already connected, closing old connection.
+1697206443: New client connected from 192.168.0.32:58574 as Atom (p2, c1, k30).
+1697206449: New connection from 192.168.0.32:58575 on port 1883.
+1697206449: Client Atom already connected, closing old connection.
+1697206449: New client connected from 192.168.0.32:58575 as Atom (p2, c1, k30).
+1697206455: New connection from 192.168.0.32:58576 on port 1883.
+1697206455: Client Atom already connected, closing old connection.
+1697206455: New client connected from 192.168.0.32:58576 as Atom (p2, c1, k30).
+1697206461: New connection from 192.168.0.32:58577 on port 1883.
+1697206461: Client Atom already connected, closing old connection.
+1697206461: New client connected from 192.168.0.32:58577 as Atom (p2, c1, k30).
+1697206467: New connection from 192.168.0.32:58578 on port 1883.
+1697206467: Client Atom already connected, closing old connection.
+1697206467: New client connected from 192.168.0.32:58578 as Atom (p2, c1, k30).
+1697206473: New connection from 192.168.0.32:58579 on port 1883.
+1697206473: Client Atom already connected, closing old connection.
+1697206473: New client connected from 192.168.0.32:58579 as Atom (p2, c1, k30).
+1697206479: New connection from 192.168.0.32:58580 on port 1883.
+1697206479: Client Atom already connected, closing old connection.
+1697206479: New client connected from 192.168.0.32:58580 as Atom (p2, c1, k30).
+1697206485: New connection from 192.168.0.32:58581 on port 1883.
+1697206485: Client Atom already connected, closing old connection.
+1697206485: New client connected from 192.168.0.32:58581 as Atom (p2, c1, k30).
+1697206491: New connection from 192.168.0.32:58582 on port 1883.
+1697206491: Client Atom already connected, closing old connection.
+1697206491: New client connected from 192.168.0.32:58582 as Atom (p2, c1, k30).
+1697206497: New connection from 192.168.0.32:58583 on port 1883.
+1697206497: Client Atom already connected, closing old connection.
+1697206497: New client connected from 192.168.0.32:58583 as Atom (p2, c1, k30).
+1697206503: New connection from 192.168.0.32:58584 on port 1883.
+1697206503: Client Atom already connected, closing old connection.
+1697206503: New client connected from 192.168.0.32:58584 as Atom (p2, c1, k30).
+1697206509: New connection from 192.168.0.32:58585 on port 1883.
+1697206509: Client Atom already connected, closing old connection.
+1697206509: New client connected from 192.168.0.32:58585 as Atom (p2, c1, k30).
+1697206515: New connection from 192.168.0.32:58586 on port 1883.
+1697206515: Client Atom already connected, closing old connection.
+1697206515: New client connected from 192.168.0.32:58586 as Atom (p2, c1, k30).
+1697206521: New connection from 192.168.0.32:58587 on port 1883.
+1697206521: Client Atom closed its connection.
+1697206521: New client connected from 192.168.0.32:58587 as Atom (p2, c1, k30).
+1697206527: New connection from 192.168.0.32:58588 on port 1883.
+1697206527: Client Atom already connected, closing old connection.
+1697206527: New client connected from 192.168.0.32:58588 as Atom (p2, c1, k30).
+1697206533: New connection from 192.168.0.32:58589 on port 1883.
+1697206533: Client Atom already connected, closing old connection.
+1697206533: New client connected from 192.168.0.32:58589 as Atom (p2, c1, k30).
+1697206539: New connection from 192.168.0.32:58590 on port 1883.
+1697206539: Client Atom already connected, closing old connection.
+1697206539: New client connected from 192.168.0.32:58590 as Atom (p2, c1, k30).
+1697206545: New connection from 192.168.0.32:58591 on port 1883.
+1697206545: Client Atom already connected, closing old connection.
+1697206545: New client connected from 192.168.0.32:58591 as Atom (p2, c1, k30).
+1697206551: New connection from 192.168.0.32:58592 on port 1883.
+1697206551: Client Atom already connected, closing old connection.
+1697206551: New client connected from 192.168.0.32:58592 as Atom (p2, c1, k30).
+1697206557: New connection from 192.168.0.32:58593 on port 1883.
+1697206557: Client Atom already connected, closing old connection.
+1697206557: New client connected from 192.168.0.32:58593 as Atom (p2, c1, k30).
+1697206563: New connection from 192.168.0.32:58594 on port 1883.
+1697206563: Client Atom already connected, closing old connection.
+1697206563: New client connected from 192.168.0.32:58594 as Atom (p2, c1, k30).
+1697206569: New connection from 192.168.0.32:58595 on port 1883.
+1697206569: Client Atom already connected, closing old connection.
+1697206569: New client connected from 192.168.0.32:58595 as Atom (p2, c1, k30).
+1697206575: New connection from 192.168.0.32:58596 on port 1883.
+1697206575: Client Atom already connected, closing old connection.
+1697206575: New client connected from 192.168.0.32:58596 as Atom (p2, c1, k30).
+1697206581: New connection from 192.168.0.32:58597 on port 1883.
+1697206581: Client Atom already connected, closing old connection.
+1697206581: New client connected from 192.168.0.32:58597 as Atom (p2, c1, k30).
+1697206587: New connection from 192.168.0.32:58598 on port 1883.
+1697206587: Client Atom already connected, closing old connection.
+1697206587: New client connected from 192.168.0.32:58598 as Atom (p2, c1, k30).
+1697206593: New connection from 192.168.0.32:58599 on port 1883.
+1697206593: Client Atom already connected, closing old connection.
+1697206593: New client connected from 192.168.0.32:58599 as Atom (p2, c1, k30).
+1697206599: New connection from 192.168.0.32:58600 on port 1883.
+1697206599: Client Atom already connected, closing old connection.
+1697206599: New client connected from 192.168.0.32:58600 as Atom (p2, c1, k30).
+1697206605: New connection from 192.168.0.32:58601 on port 1883.
+1697206605: Client Atom already connected, closing old connection.
+1697206605: New client connected from 192.168.0.32:58601 as Atom (p2, c1, k30).
+1697206611: New connection from 192.168.0.32:58602 on port 1883.
+1697206611: Client Atom already connected, closing old connection.
+1697206611: New client connected from 192.168.0.32:58602 as Atom (p2, c1, k30).
+1697206617: New connection from 192.168.0.32:58603 on port 1883.
+1697206617: Client Atom already connected, closing old connection.
+1697206617: New client connected from 192.168.0.32:58603 as Atom (p2, c1, k30).
+1697206623: New connection from 192.168.0.32:58604 on port 1883.
+1697206623: Client Atom already connected, closing old connection.
+1697206623: New client connected from 192.168.0.32:58604 as Atom (p2, c1, k30).
+1697206629: New connection from 192.168.0.32:58605 on port 1883.
+1697206629: Client Atom already connected, closing old connection.
+1697206629: New client connected from 192.168.0.32:58605 as Atom (p2, c1, k30).
+1697206635: New connection from 192.168.0.32:58606 on port 1883.
+1697206635: Client Atom already connected, closing old connection.
+1697206635: New client connected from 192.168.0.32:58606 as Atom (p2, c1, k30).
+1697206641: New connection from 192.168.0.32:58607 on port 1883.
+1697206641: Client Atom already connected, closing old connection.
+1697206641: New client connected from 192.168.0.32:58607 as Atom (p2, c1, k30).
+1697206647: New connection from 192.168.0.32:58608 on port 1883.
+1697206647: Client Atom closed its connection.
+1697206647: New client connected from 192.168.0.32:58608 as Atom (p2, c1, k30).
+1697206653: New connection from 192.168.0.32:58609 on port 1883.
+1697206653: Client Atom already connected, closing old connection.
+1697206653: New client connected from 192.168.0.32:58609 as Atom (p2, c1, k30).
+1697206659: New connection from 192.168.0.32:58610 on port 1883.
+1697206659: Client Atom already connected, closing old connection.
+1697206659: New client connected from 192.168.0.32:58610 as Atom (p2, c1, k30).
+1697206665: New connection from 192.168.0.32:58611 on port 1883.
+1697206665: Client Atom already connected, closing old connection.
+1697206665: New client connected from 192.168.0.32:58611 as Atom (p2, c1, k30).
+1697206671: New connection from 192.168.0.32:58612 on port 1883.
+1697206671: Client Atom already connected, closing old connection.
+1697206671: New client connected from 192.168.0.32:58612 as Atom (p2, c1, k30).
+1697206677: New connection from 192.168.0.32:58613 on port 1883.
+1697206677: Client Atom already connected, closing old connection.
+1697206677: New client connected from 192.168.0.32:58613 as Atom (p2, c1, k30).
+1697206683: New connection from 192.168.0.32:58614 on port 1883.
+1697206683: Client Atom already connected, closing old connection.
+1697206683: New client connected from 192.168.0.32:58614 as Atom (p2, c1, k30).
+1697206689: New connection from 192.168.0.32:58615 on port 1883.
+1697206689: Client Atom already connected, closing old connection.
+1697206689: New client connected from 192.168.0.32:58615 as Atom (p2, c1, k30).
+1697206695: New connection from 192.168.0.32:58616 on port 1883.
+1697206695: Client Atom already connected, closing old connection.
+1697206695: New client connected from 192.168.0.32:58616 as Atom (p2, c1, k30).
+1697206701: New connection from 192.168.0.32:58617 on port 1883.
+1697206701: Client Atom already connected, closing old connection.
+1697206701: New client connected from 192.168.0.32:58617 as Atom (p2, c1, k30).
+1697206707: New connection from 192.168.0.32:58618 on port 1883.
+1697206707: Client Atom already connected, closing old connection.
+1697206707: New client connected from 192.168.0.32:58618 as Atom (p2, c1, k30).
+1697206713: New connection from 192.168.0.32:58619 on port 1883.
+1697206713: Client Atom already connected, closing old connection.
+1697206713: New client connected from 192.168.0.32:58619 as Atom (p2, c1, k30).
+1697206719: New connection from 192.168.0.32:58620 on port 1883.
+1697206719: Client Atom already connected, closing old connection.
+1697206719: New client connected from 192.168.0.32:58620 as Atom (p2, c1, k30).
+1697206725: New connection from 192.168.0.32:58621 on port 1883.
+1697206725: Client Atom already connected, closing old connection.
+1697206725: New client connected from 192.168.0.32:58621 as Atom (p2, c1, k30).
+1697206731: New connection from 192.168.0.32:58622 on port 1883.
+1697206731: Client Atom already connected, closing old connection.
+1697206731: New client connected from 192.168.0.32:58622 as Atom (p2, c1, k30).
+1697206737: New connection from 192.168.0.32:58623 on port 1883.
+1697206737: Client Atom already connected, closing old connection.
+1697206737: New client connected from 192.168.0.32:58623 as Atom (p2, c1, k30).
+1697206743: New connection from 192.168.0.32:58624 on port 1883.
+1697206743: Client Atom already connected, closing old connection.
+1697206743: New client connected from 192.168.0.32:58624 as Atom (p2, c1, k30).
+1697206749: New connection from 192.168.0.32:58625 on port 1883.
+1697206749: Client Atom already connected, closing old connection.
+1697206749: New client connected from 192.168.0.32:58625 as Atom (p2, c1, k30).
+1697206755: New connection from 192.168.0.32:58626 on port 1883.
+1697206755: Client Atom already connected, closing old connection.
+1697206755: New client connected from 192.168.0.32:58626 as Atom (p2, c1, k30).
+1697206761: New connection from 192.168.0.32:58627 on port 1883.
+1697206761: Client Atom already connected, closing old connection.
+1697206761: New client connected from 192.168.0.32:58627 as Atom (p2, c1, k30).
+1697206767: New connection from 192.168.0.32:58628 on port 1883.
+1697206767: Client Atom already connected, closing old connection.
+1697206767: New client connected from 192.168.0.32:58628 as Atom (p2, c1, k30).
+1697206773: New connection from 192.168.0.32:58629 on port 1883.
+1697206773: Client Atom already connected, closing old connection.
+1697206773: New client connected from 192.168.0.32:58629 as Atom (p2, c1, k30).
+1697206779: New connection from 192.168.0.32:58630 on port 1883.
+1697206779: Client Atom already connected, closing old connection.
+1697206779: New client connected from 192.168.0.32:58630 as Atom (p2, c1, k30).
+1697206785: New connection from 192.168.0.32:58631 on port 1883.
+1697206785: Client Atom already connected, closing old connection.
+1697206785: New client connected from 192.168.0.32:58631 as Atom (p2, c1, k30).
+1697206791: New connection from 192.168.0.32:58632 on port 1883.
+1697206791: Client Atom already connected, closing old connection.
+1697206791: New client connected from 192.168.0.32:58632 as Atom (p2, c1, k30).
+1697206797: New connection from 192.168.0.32:58633 on port 1883.
+1697206797: Client Atom already connected, closing old connection.
+1697206797: New client connected from 192.168.0.32:58633 as Atom (p2, c1, k30).
+1697206803: New connection from 192.168.0.32:58634 on port 1883.
+1697206803: Client Atom already connected, closing old connection.
+1697206803: New client connected from 192.168.0.32:58634 as Atom (p2, c1, k30).
+1697206809: New connection from 192.168.0.32:58635 on port 1883.
+1697206809: Client Atom already connected, closing old connection.
+1697206809: New client connected from 192.168.0.32:58635 as Atom (p2, c1, k30).
+1697206815: New connection from 192.168.0.32:58636 on port 1883.
+1697206815: Client Atom already connected, closing old connection.
+1697206815: New client connected from 192.168.0.32:58636 as Atom (p2, c1, k30).
+1697206821: New connection from 192.168.0.32:58637 on port 1883.
+1697206821: Client Atom already connected, closing old connection.
+1697206821: New client connected from 192.168.0.32:58637 as Atom (p2, c1, k30).
+1697206827: New connection from 192.168.0.32:58638 on port 1883.
+1697206827: Client Atom already connected, closing old connection.
+1697206827: New client connected from 192.168.0.32:58638 as Atom (p2, c1, k30).
+1697206833: New connection from 192.168.0.32:58639 on port 1883.
+1697206833: Client Atom already connected, closing old connection.
+1697206833: New client connected from 192.168.0.32:58639 as Atom (p2, c1, k30).
+1697206839: New connection from 192.168.0.32:58640 on port 1883.
+1697206839: Client Atom already connected, closing old connection.
+1697206839: New client connected from 192.168.0.32:58640 as Atom (p2, c1, k30).
+1697206845: New connection from 192.168.0.32:58641 on port 1883.
+1697206845: Client Atom already connected, closing old connection.
+1697206845: New client connected from 192.168.0.32:58641 as Atom (p2, c1, k30).
+1697206851: New connection from 192.168.0.32:58642 on port 1883.
+1697206851: Client Atom already connected, closing old connection.
+1697206851: New client connected from 192.168.0.32:58642 as Atom (p2, c1, k30).
+1697206857: New connection from 192.168.0.32:58643 on port 1883.
+1697206857: Client Atom already connected, closing old connection.
+1697206857: New client connected from 192.168.0.32:58643 as Atom (p2, c1, k30).
+1697206863: New connection from 192.168.0.32:58644 on port 1883.
+1697206863: Client Atom already connected, closing old connection.
+1697206863: New client connected from 192.168.0.32:58644 as Atom (p2, c1, k30).
+1697206869: New connection from 192.168.0.32:58645 on port 1883.
+1697206869: Client Atom already connected, closing old connection.
+1697206869: New client connected from 192.168.0.32:58645 as Atom (p2, c1, k30).
+1697206875: New connection from 192.168.0.32:58646 on port 1883.
+1697206875: Client Atom already connected, closing old connection.
+1697206875: New client connected from 192.168.0.32:58646 as Atom (p2, c1, k30).
+1697206881: New connection from 192.168.0.32:58647 on port 1883.
+1697206881: Client Atom already connected, closing old connection.
+1697206881: New client connected from 192.168.0.32:58647 as Atom (p2, c1, k30).
+1697206887: New connection from 192.168.0.32:58648 on port 1883.
+1697206887: Client Atom already connected, closing old connection.
+1697206887: New client connected from 192.168.0.32:58648 as Atom (p2, c1, k30).
+1697206893: New connection from 192.168.0.32:58649 on port 1883.
+1697206893: Client Atom already connected, closing old connection.
+1697206893: New client connected from 192.168.0.32:58649 as Atom (p2, c1, k30).
+1697206899: New connection from 192.168.0.32:58650 on port 1883.
+1697206899: Client Atom closed its connection.
+1697206899: New client connected from 192.168.0.32:58650 as Atom (p2, c1, k30).
+1697206905: New connection from 192.168.0.32:58651 on port 1883.
+1697206905: Client Atom already connected, closing old connection.
+1697206905: New client connected from 192.168.0.32:58651 as Atom (p2, c1, k30).
+1697206911: New connection from 192.168.0.32:58652 on port 1883.
+1697206911: Client Atom already connected, closing old connection.
+1697206911: New client connected from 192.168.0.32:58652 as Atom (p2, c1, k30).
+1697206917: New connection from 192.168.0.32:58653 on port 1883.
+1697206917: Client Atom already connected, closing old connection.
+1697206917: New client connected from 192.168.0.32:58653 as Atom (p2, c1, k30).
+1697206923: New connection from 192.168.0.32:58654 on port 1883.
+1697206923: Client Atom already connected, closing old connection.
+1697206923: New client connected from 192.168.0.32:58654 as Atom (p2, c1, k30).
+1697206929: New connection from 192.168.0.32:58655 on port 1883.
+1697206929: Client Atom already connected, closing old connection.
+1697206929: New client connected from 192.168.0.32:58655 as Atom (p2, c1, k30).
+1697206935: New connection from 192.168.0.32:58656 on port 1883.
+1697206935: Client Atom already connected, closing old connection.
+1697206935: New client connected from 192.168.0.32:58656 as Atom (p2, c1, k30).
+1697206941: New connection from 192.168.0.32:58657 on port 1883.
+1697206941: Client Atom already connected, closing old connection.
+1697206941: New client connected from 192.168.0.32:58657 as Atom (p2, c1, k30).
+1697206947: New connection from 192.168.0.32:58658 on port 1883.
+1697206947: Client Atom already connected, closing old connection.
+1697206947: New client connected from 192.168.0.32:58658 as Atom (p2, c1, k30).
+1697206953: New connection from 192.168.0.32:58659 on port 1883.
+1697206953: Client Atom already connected, closing old connection.
+1697206953: New client connected from 192.168.0.32:58659 as Atom (p2, c1, k30).
+1697206959: New connection from 192.168.0.32:58660 on port 1883.
+1697206959: Client Atom already connected, closing old connection.
+1697206959: New client connected from 192.168.0.32:58660 as Atom (p2, c1, k30).
+1697206965: New connection from 192.168.0.32:58661 on port 1883.
+1697206965: Client Atom already connected, closing old connection.
+1697206965: New client connected from 192.168.0.32:58661 as Atom (p2, c1, k30).
+1697206971: New connection from 192.168.0.32:58662 on port 1883.
+1697206971: Client Atom already connected, closing old connection.
+1697206971: New client connected from 192.168.0.32:58662 as Atom (p2, c1, k30).
+1697206977: New connection from 192.168.0.32:58663 on port 1883.
+1697206977: Client Atom already connected, closing old connection.
+1697206977: New client connected from 192.168.0.32:58663 as Atom (p2, c1, k30).
+1697206983: New connection from 192.168.0.32:58664 on port 1883.
+1697206983: Client Atom already connected, closing old connection.
+1697206983: New client connected from 192.168.0.32:58664 as Atom (p2, c1, k30).
+1697206989: New connection from 192.168.0.32:58665 on port 1883.
+1697206989: Client Atom already connected, closing old connection.
+1697206989: New client connected from 192.168.0.32:58665 as Atom (p2, c1, k30).
+1697206995: New connection from 192.168.0.32:58666 on port 1883.
+1697206995: Client Atom already connected, closing old connection.
+1697206995: New client connected from 192.168.0.32:58666 as Atom (p2, c1, k30).
+1697207001: New connection from 192.168.0.32:58667 on port 1883.
+1697207001: Client Atom already connected, closing old connection.
+1697207001: New client connected from 192.168.0.32:58667 as Atom (p2, c1, k30).
+1697207007: New connection from 192.168.0.32:58668 on port 1883.
+1697207007: Client Atom already connected, closing old connection.
+1697207007: New client connected from 192.168.0.32:58668 as Atom (p2, c1, k30).
+1697207013: New connection from 192.168.0.32:58669 on port 1883.
+1697207013: Client Atom already connected, closing old connection.
+1697207013: New client connected from 192.168.0.32:58669 as Atom (p2, c1, k30).
+1697207019: New connection from 192.168.0.32:58670 on port 1883.
+1697207019: Client Atom already connected, closing old connection.
+1697207019: New client connected from 192.168.0.32:58670 as Atom (p2, c1, k30).
+1697207025: New connection from 192.168.0.32:58671 on port 1883.
+1697207025: Client Atom already connected, closing old connection.
+1697207025: New client connected from 192.168.0.32:58671 as Atom (p2, c1, k30).
+1697207031: New connection from 192.168.0.32:58672 on port 1883.
+1697207031: Client Atom already connected, closing old connection.
+1697207031: New client connected from 192.168.0.32:58672 as Atom (p2, c1, k30).
+1697207034: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697207037: New connection from 192.168.0.32:58673 on port 1883.
+1697207037: Client Atom already connected, closing old connection.
+1697207037: New client connected from 192.168.0.32:58673 as Atom (p2, c1, k30).
+1697207043: New connection from 192.168.0.32:58674 on port 1883.
+1697207043: Client Atom already connected, closing old connection.
+1697207043: New client connected from 192.168.0.32:58674 as Atom (p2, c1, k30).
+1697207049: New connection from 192.168.0.32:58675 on port 1883.
+1697207049: Client Atom already connected, closing old connection.
+1697207049: New client connected from 192.168.0.32:58675 as Atom (p2, c1, k30).
+1697207055: New connection from 192.168.0.32:58676 on port 1883.
+1697207055: Client Atom already connected, closing old connection.
+1697207055: New client connected from 192.168.0.32:58676 as Atom (p2, c1, k30).
+1697207061: New connection from 192.168.0.32:58677 on port 1883.
+1697207061: Client Atom already connected, closing old connection.
+1697207061: New client connected from 192.168.0.32:58677 as Atom (p2, c1, k30).
+1697207067: New connection from 192.168.0.32:58678 on port 1883.
+1697207067: Client Atom already connected, closing old connection.
+1697207067: New client connected from 192.168.0.32:58678 as Atom (p2, c1, k30).
+1697207073: New connection from 192.168.0.32:58679 on port 1883.
+1697207073: Client Atom already connected, closing old connection.
+1697207073: New client connected from 192.168.0.32:58679 as Atom (p2, c1, k30).
+1697207079: New connection from 192.168.0.32:58680 on port 1883.
+1697207079: Client Atom already connected, closing old connection.
+1697207079: New client connected from 192.168.0.32:58680 as Atom (p2, c1, k30).
+1697207085: New connection from 192.168.0.32:58681 on port 1883.
+1697207085: Client Atom already connected, closing old connection.
+1697207085: New client connected from 192.168.0.32:58681 as Atom (p2, c1, k30).
+1697207091: New connection from 192.168.0.32:58682 on port 1883.
+1697207091: Client Atom already connected, closing old connection.
+1697207091: New client connected from 192.168.0.32:58682 as Atom (p2, c1, k30).
+1697207097: New connection from 192.168.0.32:58683 on port 1883.
+1697207097: Client Atom already connected, closing old connection.
+1697207097: New client connected from 192.168.0.32:58683 as Atom (p2, c1, k30).
+1697207103: New connection from 192.168.0.32:58684 on port 1883.
+1697207103: Client Atom already connected, closing old connection.
+1697207103: New client connected from 192.168.0.32:58684 as Atom (p2, c1, k30).
+1697207109: New connection from 192.168.0.32:58685 on port 1883.
+1697207109: Client Atom already connected, closing old connection.
+1697207109: New client connected from 192.168.0.32:58685 as Atom (p2, c1, k30).
+1697207115: New connection from 192.168.0.32:58686 on port 1883.
+1697207115: Client Atom already connected, closing old connection.
+1697207115: New client connected from 192.168.0.32:58686 as Atom (p2, c1, k30).
+1697207121: New connection from 192.168.0.32:58687 on port 1883.
+1697207121: Client Atom already connected, closing old connection.
+1697207121: New client connected from 192.168.0.32:58687 as Atom (p2, c1, k30).
+1697207127: New connection from 192.168.0.32:58688 on port 1883.
+1697207127: Client Atom already connected, closing old connection.
+1697207127: New client connected from 192.168.0.32:58688 as Atom (p2, c1, k30).
+1697207133: New connection from 192.168.0.32:58689 on port 1883.
+1697207133: Client Atom already connected, closing old connection.
+1697207133: New client connected from 192.168.0.32:58689 as Atom (p2, c1, k30).
+1697207139: New connection from 192.168.0.32:58690 on port 1883.
+1697207139: Client Atom already connected, closing old connection.
+1697207139: New client connected from 192.168.0.32:58690 as Atom (p2, c1, k30).
+1697207145: New connection from 192.168.0.32:58691 on port 1883.
+1697207145: Client Atom already connected, closing old connection.
+1697207145: New client connected from 192.168.0.32:58691 as Atom (p2, c1, k30).
+1697207151: New connection from 192.168.0.32:58692 on port 1883.
+1697207151: Client Atom already connected, closing old connection.
+1697207151: New client connected from 192.168.0.32:58692 as Atom (p2, c1, k30).
+1697207157: New connection from 192.168.0.32:58693 on port 1883.
+1697207157: Client Atom already connected, closing old connection.
+1697207157: New client connected from 192.168.0.32:58693 as Atom (p2, c1, k30).
+1697207163: New connection from 192.168.0.32:58694 on port 1883.
+1697207163: Client Atom already connected, closing old connection.
+1697207163: New client connected from 192.168.0.32:58694 as Atom (p2, c1, k30).
+1697207169: New connection from 192.168.0.32:58695 on port 1883.
+1697207169: Client Atom already connected, closing old connection.
+1697207169: New client connected from 192.168.0.32:58695 as Atom (p2, c1, k30).
+1697207175: New connection from 192.168.0.32:58696 on port 1883.
+1697207175: Client Atom already connected, closing old connection.
+1697207175: New client connected from 192.168.0.32:58696 as Atom (p2, c1, k30).
+1697207181: New connection from 192.168.0.32:58697 on port 1883.
+1697207181: Client Atom already connected, closing old connection.
+1697207181: New client connected from 192.168.0.32:58697 as Atom (p2, c1, k30).
+1697207187: New connection from 192.168.0.32:58698 on port 1883.
+1697207187: Client Atom already connected, closing old connection.
+1697207187: New client connected from 192.168.0.32:58698 as Atom (p2, c1, k30).
+1697207193: New connection from 192.168.0.32:58699 on port 1883.
+1697207193: Client Atom already connected, closing old connection.
+1697207193: New client connected from 192.168.0.32:58699 as Atom (p2, c1, k30).
+1697207199: New connection from 192.168.0.32:58700 on port 1883.
+1697207199: Client Atom already connected, closing old connection.
+1697207199: New client connected from 192.168.0.32:58700 as Atom (p2, c1, k30).
+1697207205: New connection from 192.168.0.32:58701 on port 1883.
+1697207205: Client Atom already connected, closing old connection.
+1697207205: New client connected from 192.168.0.32:58701 as Atom (p2, c1, k30).
+1697207211: New connection from 192.168.0.32:58702 on port 1883.
+1697207211: Client Atom already connected, closing old connection.
+1697207211: New client connected from 192.168.0.32:58702 as Atom (p2, c1, k30).
+1697207217: New connection from 192.168.0.32:58703 on port 1883.
+1697207217: Client Atom already connected, closing old connection.
+1697207217: New client connected from 192.168.0.32:58703 as Atom (p2, c1, k30).
+1697207223: New connection from 192.168.0.32:58704 on port 1883.
+1697207223: Client Atom already connected, closing old connection.
+1697207223: New client connected from 192.168.0.32:58704 as Atom (p2, c1, k30).
+1697207229: New connection from 192.168.0.32:58705 on port 1883.
+1697207229: Client Atom already connected, closing old connection.
+1697207229: New client connected from 192.168.0.32:58705 as Atom (p2, c1, k30).
+1697207235: New connection from 192.168.0.32:58706 on port 1883.
+1697207235: Client Atom already connected, closing old connection.
+1697207235: New client connected from 192.168.0.32:58706 as Atom (p2, c1, k30).
+1697207241: New connection from 192.168.0.32:58707 on port 1883.
+1697207241: Client Atom already connected, closing old connection.
+1697207241: New client connected from 192.168.0.32:58707 as Atom (p2, c1, k30).
+1697207247: New connection from 192.168.0.32:58708 on port 1883.
+1697207247: Client Atom already connected, closing old connection.
+1697207247: New client connected from 192.168.0.32:58708 as Atom (p2, c1, k30).
+1697207253: New connection from 192.168.0.32:58709 on port 1883.
+1697207253: Client Atom already connected, closing old connection.
+1697207253: New client connected from 192.168.0.32:58709 as Atom (p2, c1, k30).
+1697207259: New connection from 192.168.0.32:58710 on port 1883.
+1697207259: Client Atom already connected, closing old connection.
+1697207259: New client connected from 192.168.0.32:58710 as Atom (p2, c1, k30).
+1697207265: New connection from 192.168.0.32:58711 on port 1883.
+1697207265: Client Atom already connected, closing old connection.
+1697207265: New client connected from 192.168.0.32:58711 as Atom (p2, c1, k30).
+1697207271: New connection from 192.168.0.32:58712 on port 1883.
+1697207271: Client Atom already connected, closing old connection.
+1697207271: New client connected from 192.168.0.32:58712 as Atom (p2, c1, k30).
+1697207277: New connection from 192.168.0.32:58713 on port 1883.
+1697207277: Client Atom already connected, closing old connection.
+1697207277: New client connected from 192.168.0.32:58713 as Atom (p2, c1, k30).
+1697207283: New connection from 192.168.0.32:58714 on port 1883.
+1697207283: Client Atom already connected, closing old connection.
+1697207283: New client connected from 192.168.0.32:58714 as Atom (p2, c1, k30).
+1697207289: New connection from 192.168.0.32:58715 on port 1883.
+1697207289: Client Atom already connected, closing old connection.
+1697207289: New client connected from 192.168.0.32:58715 as Atom (p2, c1, k30).
+1697207295: New connection from 192.168.0.32:58716 on port 1883.
+1697207295: Client Atom already connected, closing old connection.
+1697207295: New client connected from 192.168.0.32:58716 as Atom (p2, c1, k30).
+1697207301: New connection from 192.168.0.32:58717 on port 1883.
+1697207301: Client Atom already connected, closing old connection.
+1697207301: New client connected from 192.168.0.32:58717 as Atom (p2, c1, k30).
+1697207307: New connection from 192.168.0.32:58718 on port 1883.
+1697207307: Client Atom already connected, closing old connection.
+1697207307: New client connected from 192.168.0.32:58718 as Atom (p2, c1, k30).
+1697207313: New connection from 192.168.0.32:58719 on port 1883.
+1697207313: Client Atom already connected, closing old connection.
+1697207313: New client connected from 192.168.0.32:58719 as Atom (p2, c1, k30).
+1697207319: New connection from 192.168.0.32:58720 on port 1883.
+1697207319: Client Atom already connected, closing old connection.
+1697207319: New client connected from 192.168.0.32:58720 as Atom (p2, c1, k30).
+1697207325: New connection from 192.168.0.32:58721 on port 1883.
+1697207325: Client Atom already connected, closing old connection.
+1697207325: New client connected from 192.168.0.32:58721 as Atom (p2, c1, k30).
+1697207331: New connection from 192.168.0.32:58722 on port 1883.
+1697207331: Client Atom already connected, closing old connection.
+1697207331: New client connected from 192.168.0.32:58722 as Atom (p2, c1, k30).
+1697207337: New connection from 192.168.0.32:58723 on port 1883.
+1697207337: Client Atom already connected, closing old connection.
+1697207337: New client connected from 192.168.0.32:58723 as Atom (p2, c1, k30).
+1697207343: New connection from 192.168.0.32:58724 on port 1883.
+1697207343: Client Atom already connected, closing old connection.
+1697207343: New client connected from 192.168.0.32:58724 as Atom (p2, c1, k30).
+1697207349: New connection from 192.168.0.32:58725 on port 1883.
+1697207349: Client Atom already connected, closing old connection.
+1697207349: New client connected from 192.168.0.32:58725 as Atom (p2, c1, k30).
+1697207355: New connection from 192.168.0.32:58726 on port 1883.
+1697207355: Client Atom already connected, closing old connection.
+1697207355: New client connected from 192.168.0.32:58726 as Atom (p2, c1, k30).
+1697207361: New connection from 192.168.0.32:58727 on port 1883.
+1697207361: Client Atom already connected, closing old connection.
+1697207361: New client connected from 192.168.0.32:58727 as Atom (p2, c1, k30).
+1697207367: New connection from 192.168.0.32:58728 on port 1883.
+1697207367: Client Atom already connected, closing old connection.
+1697207367: New client connected from 192.168.0.32:58728 as Atom (p2, c1, k30).
+1697207373: New connection from 192.168.0.32:58729 on port 1883.
+1697207373: Client Atom already connected, closing old connection.
+1697207373: New client connected from 192.168.0.32:58729 as Atom (p2, c1, k30).
+1697207379: New connection from 192.168.0.32:58730 on port 1883.
+1697207379: Client Atom already connected, closing old connection.
+1697207379: New client connected from 192.168.0.32:58730 as Atom (p2, c1, k30).
+1697207385: New connection from 192.168.0.32:58731 on port 1883.
+1697207385: Client Atom already connected, closing old connection.
+1697207385: New client connected from 192.168.0.32:58731 as Atom (p2, c1, k30).
+1697207391: New connection from 192.168.0.32:58732 on port 1883.
+1697207391: Client Atom already connected, closing old connection.
+1697207391: New client connected from 192.168.0.32:58732 as Atom (p2, c1, k30).
+1697207397: New connection from 192.168.0.32:58733 on port 1883.
+1697207397: Client Atom already connected, closing old connection.
+1697207397: New client connected from 192.168.0.32:58733 as Atom (p2, c1, k30).
+1697207403: New connection from 192.168.0.32:58734 on port 1883.
+1697207403: Client Atom already connected, closing old connection.
+1697207403: New client connected from 192.168.0.32:58734 as Atom (p2, c1, k30).
+1697207409: New connection from 192.168.0.32:58735 on port 1883.
+1697207409: Client Atom already connected, closing old connection.
+1697207409: New client connected from 192.168.0.32:58735 as Atom (p2, c1, k30).
+1697207415: New connection from 192.168.0.32:58736 on port 1883.
+1697207415: Client Atom already connected, closing old connection.
+1697207415: New client connected from 192.168.0.32:58736 as Atom (p2, c1, k30).
+1697207421: New connection from 192.168.0.32:58737 on port 1883.
+1697207421: Client Atom already connected, closing old connection.
+1697207421: New client connected from 192.168.0.32:58737 as Atom (p2, c1, k30).
+1697207427: New connection from 192.168.0.32:58738 on port 1883.
+1697207427: Client Atom already connected, closing old connection.
+1697207427: New client connected from 192.168.0.32:58738 as Atom (p2, c1, k30).
+1697207433: New connection from 192.168.0.32:58739 on port 1883.
+1697207433: Client Atom already connected, closing old connection.
+1697207433: New client connected from 192.168.0.32:58739 as Atom (p2, c1, k30).
+1697207439: New connection from 192.168.0.32:58740 on port 1883.
+1697207439: Client Atom already connected, closing old connection.
+1697207439: New client connected from 192.168.0.32:58740 as Atom (p2, c1, k30).
+1697207445: New connection from 192.168.0.32:58741 on port 1883.
+1697207445: Client Atom already connected, closing old connection.
+1697207445: New client connected from 192.168.0.32:58741 as Atom (p2, c1, k30).
+1697207451: New connection from 192.168.0.32:58742 on port 1883.
+1697207451: Client Atom already connected, closing old connection.
+1697207451: New client connected from 192.168.0.32:58742 as Atom (p2, c1, k30).
+1697207457: New connection from 192.168.0.32:58743 on port 1883.
+1697207457: Client Atom already connected, closing old connection.
+1697207457: New client connected from 192.168.0.32:58743 as Atom (p2, c1, k30).
+1697207463: New connection from 192.168.0.32:58744 on port 1883.
+1697207463: Client Atom already connected, closing old connection.
+1697207463: New client connected from 192.168.0.32:58744 as Atom (p2, c1, k30).
+1697207469: New connection from 192.168.0.32:58745 on port 1883.
+1697207469: Client Atom already connected, closing old connection.
+1697207469: New client connected from 192.168.0.32:58745 as Atom (p2, c1, k30).
+1697207475: New connection from 192.168.0.32:58746 on port 1883.
+1697207475: Client Atom already connected, closing old connection.
+1697207475: New client connected from 192.168.0.32:58746 as Atom (p2, c1, k30).
+1697207481: New connection from 192.168.0.32:58747 on port 1883.
+1697207481: Client Atom already connected, closing old connection.
+1697207481: New client connected from 192.168.0.32:58747 as Atom (p2, c1, k30).
+1697207487: New connection from 192.168.0.32:58748 on port 1883.
+1697207487: Client Atom already connected, closing old connection.
+1697207487: New client connected from 192.168.0.32:58748 as Atom (p2, c1, k30).
+1697207493: New connection from 192.168.0.32:58749 on port 1883.
+1697207493: Client Atom already connected, closing old connection.
+1697207493: New client connected from 192.168.0.32:58749 as Atom (p2, c1, k30).
+1697207499: New connection from 192.168.0.32:58750 on port 1883.
+1697207499: Client Atom already connected, closing old connection.
+1697207499: New client connected from 192.168.0.32:58750 as Atom (p2, c1, k30).
+1697207505: New connection from 192.168.0.32:58751 on port 1883.
+1697207505: Client Atom already connected, closing old connection.
+1697207505: New client connected from 192.168.0.32:58751 as Atom (p2, c1, k30).
+1697207511: New connection from 192.168.0.32:58752 on port 1883.
+1697207511: Client Atom already connected, closing old connection.
+1697207511: New client connected from 192.168.0.32:58752 as Atom (p2, c1, k30).
+1697207517: New connection from 192.168.0.32:58753 on port 1883.
+1697207517: Client Atom already connected, closing old connection.
+1697207517: New client connected from 192.168.0.32:58753 as Atom (p2, c1, k30).
+1697207523: New connection from 192.168.0.32:58754 on port 1883.
+1697207523: Client Atom already connected, closing old connection.
+1697207523: New client connected from 192.168.0.32:58754 as Atom (p2, c1, k30).
+1697207529: New connection from 192.168.0.32:58755 on port 1883.
+1697207529: Client Atom already connected, closing old connection.
+1697207529: New client connected from 192.168.0.32:58755 as Atom (p2, c1, k30).
+1697207535: New connection from 192.168.0.32:58756 on port 1883.
+1697207535: Client Atom already connected, closing old connection.
+1697207535: New client connected from 192.168.0.32:58756 as Atom (p2, c1, k30).
+1697207541: New connection from 192.168.0.32:58757 on port 1883.
+1697207541: Client Atom already connected, closing old connection.
+1697207541: New client connected from 192.168.0.32:58757 as Atom (p2, c1, k30).
+1697207727: mosquitto version 2.0.18 starting
+1697207727: Config loaded from /mosquitto/config/mosquitto.conf.
+1697207727: Opening ipv4 listen socket on port 1883.
+1697207727: Opening ipv6 listen socket on port 1883.
+1697207727: mosquitto version 2.0.18 running
+1697207732: New connection from 10.89.0.1:44544 on port 1883.
+1697207732: New client connected from 10.89.0.1:44544 as Telegraf-Consumer-jO1Wx (p2, c1, k60).
+1697207751: mosquitto version 2.0.18 terminating
+1697207751: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697208031: mosquitto version 2.0.18 starting
+1697208031: Config loaded from /mosquitto/config/mosquitto.conf.
+1697208031: Opening ipv4 listen socket on port 1883.
+1697208031: Opening ipv6 listen socket on port 1883.
+1697208031: mosquitto version 2.0.18 running
+1697208036: New connection from 10.89.0.1:40650 on port 1883.
+1697208036: New client connected from 10.89.0.1:40650 as Telegraf-Consumer-V5rP8 (p2, c1, k60).
+1697208044: mosquitto version 2.0.18 terminating
+1697208044: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697208120: mosquitto version 2.0.18 starting
+1697208120: Config loaded from /mosquitto/config/mosquitto.conf.
+1697208120: Opening ipv4 listen socket on port 1883.
+1697208120: Opening ipv6 listen socket on port 1883.
+1697208120: mosquitto version 2.0.18 running
+1697208125: New connection from 10.89.0.1:41460 on port 1883.
+1697208125: New client connected from 10.89.0.1:41460 as Telegraf-Consumer-8Q3fN (p2, c1, k60).
+1697208134: mosquitto version 2.0.18 terminating
+1697208134: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697208662: mosquitto version 2.0.18 starting
+1697208662: Config loaded from /mosquitto/config/mosquitto.conf.
+1697208662: Opening ipv4 listen socket on port 1883.
+1697208662: Opening ipv6 listen socket on port 1883.
+1697208662: mosquitto version 2.0.18 running
+1697208665: New connection from 10.89.0.1:33220 on port 1883.
+1697208665: New client connected from 10.89.0.1:33220 as Telegraf-Consumer-xJxoO (p2, c1, k60).
+1697208678: Client Telegraf-Consumer-xJxoO disconnected.
+1697209394: mosquitto version 2.0.18 terminating
+1697209394: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1697209403: mosquitto version 2.0.18 starting
+1697209403: Config loaded from /mosquitto/config/mosquitto.conf.
+1697209403: Opening ipv4 listen socket on port 1883.
+1697209403: Opening ipv6 listen socket on port 1883.
+1697209403: mosquitto version 2.0.18 running
+1697209407: New connection from 10.89.0.1:43382 on port 1883.
+1697209407: New client connected from 10.89.0.1:43382 as Telegraf-Consumer-S30z0 (p2, c1, k60).
+1697209416: Client Telegraf-Consumer-S30z0 disconnected.
+1697209924: New connection from 192.168.0.32:53511 on port 1883.
+1697209924: New client connected from 192.168.0.32:53511 as Atom (p2, c1, k30).
+1697209940: Client Atom closed its connection.
+1697209944: New connection from 192.168.0.32:53512 on port 1883.
+1697209944: New client connected from 192.168.0.32:53512 as Atom (p2, c1, k30).
+1697209948: New connection from 192.168.0.32:53513 on port 1883.
+1697209948: Client Atom already connected, closing old connection.
+1697209948: New client connected from 192.168.0.32:53513 as Atom (p2, c1, k30).
+1697209954: New connection from 192.168.0.32:53514 on port 1883.
+1697209954: Client Atom already connected, closing old connection.
+1697209954: New client connected from 192.168.0.32:53514 as Atom (p2, c1, k30).
+1697209960: Client Atom closed its connection.
+1697209960: New connection from 192.168.0.32:53515 on port 1883.
+1697209960: New client connected from 192.168.0.32:53515 as Atom (p2, c1, k30).
+1697209966: New connection from 192.168.0.32:53516 on port 1883.
+1697209966: Client Atom already connected, closing old connection.
+1697209966: New client connected from 192.168.0.32:53516 as Atom (p2, c1, k30).
+1697209980: Client Atom closed its connection.
+1697209984: New connection from 192.168.0.32:53517 on port 1883.
+1697209984: New client connected from 192.168.0.32:53517 as Atom (p2, c1, k30).
+1697209988: New connection from 192.168.0.32:53518 on port 1883.
+1697209988: Client Atom already connected, closing old connection.
+1697209988: New client connected from 192.168.0.32:53518 as Atom (p2, c1, k30).
+1697209994: New connection from 192.168.0.32:53519 on port 1883.
+1697209994: Client Atom already connected, closing old connection.
+1697209994: New client connected from 192.168.0.32:53519 as Atom (p2, c1, k30).
+1697210000: Client Atom closed its connection.
+1697210000: New connection from 192.168.0.32:53520 on port 1883.
+1697210000: New client connected from 192.168.0.32:53520 as Atom (p2, c1, k30).
+1697210006: New connection from 192.168.0.32:53521 on port 1883.
+1697210006: Client Atom already connected, closing old connection.
+1697210006: New client connected from 192.168.0.32:53521 as Atom (p2, c1, k30).
+1697210012: New connection from 192.168.0.32:53522 on port 1883.
+1697210012: Client Atom already connected, closing old connection.
+1697210012: New client connected from 192.168.0.32:53522 as Atom (p2, c1, k30).
+1697210018: New connection from 192.168.0.32:53523 on port 1883.
+1697210018: Client Atom already connected, closing old connection.
+1697210018: New client connected from 192.168.0.32:53523 as Atom (p2, c1, k30).
+1697210024: New connection from 192.168.0.32:53524 on port 1883.
+1697210024: Client Atom already connected, closing old connection.
+1697210024: New client connected from 192.168.0.32:53524 as Atom (p2, c1, k30).
+1697210030: New connection from 192.168.0.32:53525 on port 1883.
+1697210030: Client Atom already connected, closing old connection.
+1697210030: New client connected from 192.168.0.32:53525 as Atom (p2, c1, k30).
+1697210036: New connection from 192.168.0.32:53526 on port 1883.
+1697210036: Client Atom already connected, closing old connection.
+1697210036: New client connected from 192.168.0.32:53526 as Atom (p2, c1, k30).
+1697210042: New connection from 192.168.0.32:53527 on port 1883.
+1697210042: Client Atom already connected, closing old connection.
+1697210042: New client connected from 192.168.0.32:53527 as Atom (p2, c1, k30).
+1697210048: New connection from 192.168.0.32:53528 on port 1883.
+1697210048: Client Atom already connected, closing old connection.
+1697210048: New client connected from 192.168.0.32:53528 as Atom (p2, c1, k30).
+1697210054: New connection from 192.168.0.32:53529 on port 1883.
+1697210054: Client Atom already connected, closing old connection.
+1697210054: New client connected from 192.168.0.32:53529 as Atom (p2, c1, k30).
+1697210060: New connection from 192.168.0.32:53530 on port 1883.
+1697210060: Client Atom already connected, closing old connection.
+1697210060: New client connected from 192.168.0.32:53530 as Atom (p2, c1, k30).
+1697210066: New connection from 192.168.0.32:53531 on port 1883.
+1697210066: Client Atom already connected, closing old connection.
+1697210066: New client connected from 192.168.0.32:53531 as Atom (p2, c1, k30).
+1697210072: New connection from 192.168.0.32:53532 on port 1883.
+1697210072: Client Atom already connected, closing old connection.
+1697210072: New client connected from 192.168.0.32:53532 as Atom (p2, c1, k30).
+1697210078: New connection from 192.168.0.32:53533 on port 1883.
+1697210078: Client Atom already connected, closing old connection.
+1697210078: New client connected from 192.168.0.32:53533 as Atom (p2, c1, k30).
+1697210084: New connection from 192.168.0.32:53534 on port 1883.
+1697210084: Client Atom already connected, closing old connection.
+1697210084: New client connected from 192.168.0.32:53534 as Atom (p2, c1, k30).
+1697210090: New connection from 192.168.0.32:53535 on port 1883.
+1697210090: Client Atom already connected, closing old connection.
+1697210090: New client connected from 192.168.0.32:53535 as Atom (p2, c1, k30).
+1697210096: New connection from 192.168.0.32:53536 on port 1883.
+1697210096: Client Atom already connected, closing old connection.
+1697210096: New client connected from 192.168.0.32:53536 as Atom (p2, c1, k30).
+1697210102: New connection from 192.168.0.32:53537 on port 1883.
+1697210102: Client Atom already connected, closing old connection.
+1697210102: New client connected from 192.168.0.32:53537 as Atom (p2, c1, k30).
+1697210108: New connection from 192.168.0.32:53538 on port 1883.
+1697210108: Client Atom already connected, closing old connection.
+1697210108: New client connected from 192.168.0.32:53538 as Atom (p2, c1, k30).
+1697210114: New connection from 192.168.0.32:53539 on port 1883.
+1697210114: Client Atom already connected, closing old connection.
+1697210114: New client connected from 192.168.0.32:53539 as Atom (p2, c1, k30).
+1697210120: New connection from 192.168.0.32:53540 on port 1883.
+1697210120: Client Atom already connected, closing old connection.
+1697210120: New client connected from 192.168.0.32:53540 as Atom (p2, c1, k30).
+1697210126: New connection from 192.168.0.32:53541 on port 1883.
+1697210126: Client Atom already connected, closing old connection.
+1697210126: New client connected from 192.168.0.32:53541 as Atom (p2, c1, k30).
+1697210132: New connection from 192.168.0.32:53542 on port 1883.
+1697210132: Client Atom already connected, closing old connection.
+1697210132: New client connected from 192.168.0.32:53542 as Atom (p2, c1, k30).
+1697210138: New connection from 192.168.0.32:53543 on port 1883.
+1697210138: Client Atom already connected, closing old connection.
+1697210138: New client connected from 192.168.0.32:53543 as Atom (p2, c1, k30).
+1697210144: New connection from 192.168.0.32:53544 on port 1883.
+1697210144: Client Atom already connected, closing old connection.
+1697210144: New client connected from 192.168.0.32:53544 as Atom (p2, c1, k30).
+1697210371: mosquitto version 2.0.18 starting
+1697210371: Config loaded from /mosquitto/config/mosquitto.conf.
+1697210371: Opening ipv4 listen socket on port 1883.
+1697210371: Opening ipv6 listen socket on port 1883.
+1697210371: mosquitto version 2.0.18 running
+1697210372: New connection from 192.168.0.32:53582 on port 1883.
+1697210372: New client connected from 192.168.0.32:53582 as Atom (p2, c1, k30).
+1697210375: New connection from 10.89.1.1:38238 on port 1883.
+1697210375: New client connected from 10.89.1.1:38238 as Telegraf-Consumer-r6nSY (p2, c1, k60).
+1697210378: New connection from 192.168.0.32:53583 on port 1883.
+1697210378: Client Atom already connected, closing old connection.
+1697210378: New client connected from 192.168.0.32:53583 as Atom (p2, c1, k30).
+1697210384: New connection from 192.168.0.32:53584 on port 1883.
+1697210384: Client Atom already connected, closing old connection.
+1697210384: New client connected from 192.168.0.32:53584 as Atom (p2, c1, k30).
+1697210390: Client Atom closed its connection.
+1697210390: New connection from 192.168.0.32:53585 on port 1883.
+1697210390: New client connected from 192.168.0.32:53585 as Atom (p2, c1, k30).
+1697210396: New connection from 192.168.0.32:53586 on port 1883.
+1697210396: Client Atom already connected, closing old connection.
+1697210396: New client connected from 192.168.0.32:53586 as Atom (p2, c1, k30).
+1697210402: New connection from 192.168.0.32:53587 on port 1883.
+1697210402: Client Atom already connected, closing old connection.
+1697210402: New client connected from 192.168.0.32:53587 as Atom (p2, c1, k30).
+1697210408: New connection from 192.168.0.32:53588 on port 1883.
+1697210408: Client Atom already connected, closing old connection.
+1697210408: New client connected from 192.168.0.32:53588 as Atom (p2, c1, k30).
+1697210414: New connection from 192.168.0.32:53589 on port 1883.
+1697210414: Client Atom already connected, closing old connection.
+1697210414: New client connected from 192.168.0.32:53589 as Atom (p2, c1, k30).
+1697210420: New connection from 192.168.0.32:53590 on port 1883.
+1697210420: Client Atom already connected, closing old connection.
+1697210420: New client connected from 192.168.0.32:53590 as Atom (p2, c1, k30).
+1697210426: New connection from 192.168.0.32:53591 on port 1883.
+1697210426: Client Atom already connected, closing old connection.
+1697210426: New client connected from 192.168.0.32:53591 as Atom (p2, c1, k30).
+1697210432: New connection from 192.168.0.32:53592 on port 1883.
+1697210432: Client Atom already connected, closing old connection.
+1697210432: New client connected from 192.168.0.32:53592 as Atom (p2, c1, k30).
+1697210438: New connection from 192.168.0.32:53593 on port 1883.
+1697210438: Client Atom already connected, closing old connection.
+1697210438: New client connected from 192.168.0.32:53593 as Atom (p2, c1, k30).
+1697210444: New connection from 192.168.0.32:53594 on port 1883.
+1697210444: Client Atom already connected, closing old connection.
+1697210444: New client connected from 192.168.0.32:53594 as Atom (p2, c1, k30).
+1697210450: New connection from 192.168.0.32:53595 on port 1883.
+1697210450: Client Atom already connected, closing old connection.
+1697210450: New client connected from 192.168.0.32:53595 as Atom (p2, c1, k30).
+1697210456: New connection from 192.168.0.32:53596 on port 1883.
+1697210456: Client Atom already connected, closing old connection.
+1697210456: New client connected from 192.168.0.32:53596 as Atom (p2, c1, k30).
+1697210458: Client Telegraf-Consumer-r6nSY disconnected.
+1697210462: New connection from 10.89.1.1:59172 on port 1883.
+1697210462: New client connected from 10.89.1.1:59172 as Telegraf-Consumer-30qWy (p2, c1, k60).
+1697210462: New connection from 192.168.0.32:53597 on port 1883.
+1697210462: Client Atom already connected, closing old connection.
+1697210462: New client connected from 192.168.0.32:53597 as Atom (p2, c1, k30).
+1697210463: mosquitto version 2.0.18 terminating
+1697210463: Saving in-memory database to /mosquitto/data//mosquitto.db.

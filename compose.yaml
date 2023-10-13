@@ -1,0 +1,70 @@
+services:
+  testnode:
+    build: testnode 
+    volumes:
+      - type: bind
+        source: ./scratch/opt/testnode
+        target: /opt
+  mosquitto:
+    image: eclipse-mosquitto
+    volumes:
+    - "./scratch/opt/mosquitto/config:/mosquitto/config"
+    - "./scratch/opt/mosquitto/log:/mosquitto/log"
+    - "./scratch/opt/mosquitto/data/:/mosquitto/data"
+    restart: always
+    ports:
+    - "1883:1883" 
+#  mongodbtestapp:
+#    image: mongodb/mongodb-community-server:6.0-ubi8
+#    environment:
+#            - CONN_STR=mongodb://${MONGODB_INITDB_ROOT_USERNAME}:${MONGODB_INITDB_ROOT_PASSWORD}@mongodb
+#    command: '/bin/bash -c "sleep 5; mongosh $$CONN_STR --eval \"show dbs;\""'
+#    depends_on:
+#      - mongodb
+#  mongodb:
+#    image: mongodb/mongodb-community-server:6.0-ubi8
+#    environment:
+#      - MONGODB_INITDB_ROOT_USERNAME=${MONGODB_INITDB_ROOT_USERNAME}
+#      - MONGODB_INITDB_ROOT_PASSWORD=${MONGODB_INITDB_ROOT_PASSWORD}
+#    volumes:
+#      - type: bind
+#        source: ./scratch/opt/MongoDB/data 
+#        target: /data/db
+  influxdb:
+    image: influxdb
+    container_name: influxdb
+    restart: always
+    ports:
+      - "8086:8086"
+    volumes:
+      - ./scratch/opt/influxdb/influxdb-data:/var/lib/influxdb2
+      - ./scratch/opt/influxdb/influxdb-config:/etc/influxdb2
+    environment:
+      - DOCKER_INFLUXDB_INIT_MODE=setup
+      - DOCKER_INFLUXDB_INIT_USERNAME=${INFLUXUSER}
+      - DOCKER_INFLUXDB_INIT_PASSWORD=${INFLUXPASSWORD}
+      - DOCKER_INFLUXDB_INIT_ORG=pisaoutertracker
+      - DOCKER_INFLUXDB_INIT_BUCKET=sensor_data
+      - DOCKER_INFLUXDB_INIT_ADMIN_TOKEN=4eYvsu8wZCJ6tKuE2sxvFHkvYFwSMVK0011hEEiojvejzpSaij86vYQomN_12au6eK-2MZ6Knr-Sax201y70w==
+  
+  telegraf:
+    image: telegraf
+    container_name: telegraf
+    restart: always
+    volumes:
+      - ./scratch/opt/telegraf/telegraf.conf:/etc/telegraf/telegraf.conf:ro
+    depends_on:
+      - mosquitto
+      - influxdb
+  
+  grafana:
+    image: grafana/grafana
+    container_name: grafana
+    restart: always
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./scratch/opt/grafana/grafana-provisioning:/etc/grafana/provisioning
+      - ./scratch/opt/grafana/grafana-data:/var/lib/grafana
+    depends_on:
+      - influxdb
