@@ -1,1 +1,9 @@
 podman-compose --env pisaoutertracker.env up
+
+prima fare
+
+chmod -R a+rwX scratch
+chmod -R o+rwX scratch
+
+il file pisaoutertracker.env contiene le password e NON e' qui
+
