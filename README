@@ -12,3 +12,14 @@ creare la repo con
 git clone https://github.com/pisaoutertracker/topconfig.git
 poi settare una chiave id_rsa e salvarla in github, e poi fare da dentro la repo
 git remote set-url origin git@github.com:pisaoutertracker/topconfig.git
+
+Poi: c'e' da sisemare laparte data.
+I dati sono in :
+
+./scratch/opt/grafana/grafana-data
+./scratch/opt/influxdb/influxdb-data
+
+questi dovrebbero essere fatti puntare a aree persistenti
+
+
+
